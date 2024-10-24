@@ -1,7 +1,7 @@
 const cron = require("node-cron");
 const paths = require("./config/paths");
 const fileService = require("./services/fileService");
-const { cleanOldFilesFromDirs } = require('./services/cleanupService');
+
 
 function main() {
   console.log("Démarrage du processus de copie...");
@@ -12,6 +12,8 @@ function main() {
 // Appel initial pour exécuter le processus immédiatement au démarrage
 //main();
 //cleanOldFilesFromDirs(paths.sourceToDestMapping);
+
+main();
 
 // Configurer la tâche cron pour s'exécuter toutes les heures à 19h
 cron.schedule("29 18 * * *", () => {

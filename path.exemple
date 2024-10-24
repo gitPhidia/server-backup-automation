@@ -5,26 +5,17 @@ const paths = {
     {
       source: resolve("/path/to/source1"), // Remplacer par le chemin source spécifique
       dest: resolve("/path/to/destination1"), // Remplacer par le chemin de destination spécifique
-      cleanup: {
-        enabled: true, // Activer ou désactiver le nettoyage
-        maxAgeInDays: 7, // Nombre maximum de jours avant suppression des fichiers
-      }
+    
     },
     {
       source: resolve("/path/to/source2"), // Remplacer par le chemin source spécifique
       dest: resolve("/path/to/destination2"), // Remplacer par le chemin de destination spécifique
-      cleanup: {
-        enabled: true,
-        maxAgeInDays: 7, // Différentes règles de nettoyage pour ce dossier
-      }
+     
     },
     {
       source: resolve("/path/to/source3"), // Remplacer par le chemin source spécifique
       dest: resolve("/path/to/destination3"), // Remplacer par le chemin de destination spécifique
-      cleanup: {
-        enabled: true,
-        maxAgeInDays: 7,
-      }
+     
     },
     // Ajouter d'autres relations source-destination ici si nécessaire
   ],
