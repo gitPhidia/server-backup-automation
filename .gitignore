@@ -1,0 +1,9 @@
+# Node modules
+node_modules/
+
+# Ignorer le fichier de log
+logs/app.log
+
+# Ignorer la configuration des path
+
+config/paths.js
