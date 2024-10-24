@@ -1,0 +1,999 @@
+2024-08-21T15:29:00.089Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups
+2024-08-21T15:29:00.090Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/fracomex_backups
+2024-08-21T15:29:00.090Z - INFO: Déplacement du fichier le plus récent: FRACOMEX_DATABASE_2024-08-21_18_11_34.sql de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups vers /home/mgbi/Documents/all_backup/fracomex_backups
+2024-08-21T15:29:00.091Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups
+2024-08-21T15:29:00.091Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/bbmay_backups
+2024-08-21T15:29:00.091Z - INFO: Déplacement du fichier le plus récent: BBMAY_DATABASE_2024-08-21_18_15_17.sql de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups vers /home/mgbi/Documents/all_backup/bbmay_backups
+2024-08-21T15:29:00.091Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/focicom/master/focicom/backups
+2024-08-21T15:29:00.091Z - INFO: Déplacement du fichier le plus récent: FOCICOM_DATABASE_2024-08-21_18_06_39.sql de /home/mgbi/elixir/focicom/master/focicom/backups vers /home/mgbi/Documents/all_backup/focicom_backups
+2024-08-21T15:29:00.091Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/focicom_backups
+2024-08-21T15:29:00.092Z - INFO: Déplacement réussi de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups/FRACOMEX_DATABASE_2024-08-21_18_11_34.sql vers /home/mgbi/Documents/all_backup/fracomex_backups/FRACOMEX_DATABASE_2024-08-21_18_11_34.sql
+2024-08-21T15:29:00.092Z - INFO: Le fichier FRACOMEX_DATABASE_2024-08-21_18_11_34.sql a été déplacé avec succès de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups à /home/mgbi/Documents/all_backup/fracomex_backups.
+2024-08-21T15:29:00.092Z - INFO: Déplacement réussi de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups/BBMAY_DATABASE_2024-08-21_18_15_17.sql vers /home/mgbi/Documents/all_backup/bbmay_backups/BBMAY_DATABASE_2024-08-21_18_15_17.sql
+2024-08-21T15:29:00.092Z - INFO: Le fichier BBMAY_DATABASE_2024-08-21_18_15_17.sql a été déplacé avec succès de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups à /home/mgbi/Documents/all_backup/bbmay_backups.
+2024-08-21T15:29:00.092Z - INFO: Déplacement réussi de /home/mgbi/elixir/focicom/master/focicom/backups/FOCICOM_DATABASE_2024-08-21_18_06_39.sql vers /home/mgbi/Documents/all_backup/focicom_backups/FOCICOM_DATABASE_2024-08-21_18_06_39.sql
+2024-08-21T15:29:00.092Z - INFO: Le fichier FOCICOM_DATABASE_2024-08-21_18_06_39.sql a été déplacé avec succès de /home/mgbi/elixir/focicom/master/focicom/backups à /home/mgbi/Documents/all_backup/focicom_backups.
+2024-08-22T15:29:00.752Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups
+2024-08-22T15:29:00.754Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/bbmay_backups
+2024-08-22T15:29:00.754Z - INFO: Déplacement du fichier le plus récent: BBMAY_DATABASE_2024-08-22_18_10_19.sql de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups vers /home/mgbi/Documents/all_backup/bbmay_backups
+2024-08-22T15:29:00.754Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/focicom/master/focicom/backups
+2024-08-22T15:29:00.754Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/focicom_backups
+2024-08-22T15:29:00.753Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/fracomex_backups
+2024-08-22T15:29:00.754Z - INFO: Déplacement du fichier le plus récent: FRACOMEX_DATABASE_2024-08-22_18_10_36.sql de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups vers /home/mgbi/Documents/all_backup/fracomex_backups
+2024-08-22T15:29:00.754Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups
+2024-08-22T15:29:00.755Z - INFO: Déplacement du fichier le plus récent: FOCICOM_DATABASE_2024-08-22_18_00_41.sql de /home/mgbi/elixir/focicom/master/focicom/backups vers /home/mgbi/Documents/all_backup/focicom_backups
+2024-08-22T15:29:00.755Z - INFO: Déplacement réussi de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups/FRACOMEX_DATABASE_2024-08-22_18_10_36.sql vers /home/mgbi/Documents/all_backup/fracomex_backups/FRACOMEX_DATABASE_2024-08-22_18_10_36.sql
+2024-08-22T15:29:00.756Z - INFO: Le fichier FRACOMEX_DATABASE_2024-08-22_18_10_36.sql a été déplacé avec succès de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups à /home/mgbi/Documents/all_backup/fracomex_backups.
+2024-08-22T15:29:00.756Z - INFO: Déplacement réussi de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups/BBMAY_DATABASE_2024-08-22_18_10_19.sql vers /home/mgbi/Documents/all_backup/bbmay_backups/BBMAY_DATABASE_2024-08-22_18_10_19.sql
+2024-08-22T15:29:00.756Z - INFO: Le fichier BBMAY_DATABASE_2024-08-22_18_10_19.sql a été déplacé avec succès de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups à /home/mgbi/Documents/all_backup/bbmay_backups.
+2024-08-22T15:29:00.756Z - INFO: Déplacement réussi de /home/mgbi/elixir/focicom/master/focicom/backups/FOCICOM_DATABASE_2024-08-22_18_00_41.sql vers /home/mgbi/Documents/all_backup/focicom_backups/FOCICOM_DATABASE_2024-08-22_18_00_41.sql
+2024-08-22T15:29:00.756Z - INFO: Le fichier FOCICOM_DATABASE_2024-08-22_18_00_41.sql a été déplacé avec succès de /home/mgbi/elixir/focicom/master/focicom/backups à /home/mgbi/Documents/all_backup/focicom_backups.
+2024-08-23T15:29:00.504Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups
+2024-08-23T15:29:00.505Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/bbmay_backups
+2024-08-23T15:29:00.505Z - INFO: Déplacement du fichier le plus récent: BBMAY_DATABASE_2024-08-23_18_10_21.sql de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups vers /home/mgbi/Documents/all_backup/bbmay_backups
+2024-08-23T15:29:00.505Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/focicom/master/focicom/backups
+2024-08-23T15:29:00.506Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/focicom_backups
+2024-08-23T15:29:00.506Z - INFO: Déplacement du fichier le plus récent: FOCICOM_DATABASE_2024-08-23_18_00_43.sql de /home/mgbi/elixir/focicom/master/focicom/backups vers /home/mgbi/Documents/all_backup/focicom_backups
+2024-08-23T15:29:00.505Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/fracomex_backups
+2024-08-23T15:29:00.505Z - INFO: Déplacement du fichier le plus récent: FRACOMEX_DATABASE_2024-08-23_18_10_38.sql de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups vers /home/mgbi/Documents/all_backup/fracomex_backups
+2024-08-23T15:29:00.505Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups
+2024-08-23T15:29:01.167Z - INFO: Déplacement réussi de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups/FRACOMEX_DATABASE_2024-08-23_18_10_38.sql vers /home/mgbi/Documents/all_backup/fracomex_backups/FRACOMEX_DATABASE_2024-08-23_18_10_38.sql
+2024-08-23T15:29:01.167Z - INFO: Le fichier FRACOMEX_DATABASE_2024-08-23_18_10_38.sql a été déplacé avec succès de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups à /home/mgbi/Documents/all_backup/fracomex_backups.
+2024-08-23T15:29:01.167Z - INFO: Déplacement réussi de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups/BBMAY_DATABASE_2024-08-23_18_10_21.sql vers /home/mgbi/Documents/all_backup/bbmay_backups/BBMAY_DATABASE_2024-08-23_18_10_21.sql
+2024-08-23T15:29:01.167Z - INFO: Le fichier BBMAY_DATABASE_2024-08-23_18_10_21.sql a été déplacé avec succès de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups à /home/mgbi/Documents/all_backup/bbmay_backups.
+2024-08-23T15:29:01.167Z - INFO: Déplacement réussi de /home/mgbi/elixir/focicom/master/focicom/backups/FOCICOM_DATABASE_2024-08-23_18_00_43.sql vers /home/mgbi/Documents/all_backup/focicom_backups/FOCICOM_DATABASE_2024-08-23_18_00_43.sql
+2024-08-23T15:29:01.167Z - INFO: Le fichier FOCICOM_DATABASE_2024-08-23_18_00_43.sql a été déplacé avec succès de /home/mgbi/elixir/focicom/master/focicom/backups à /home/mgbi/Documents/all_backup/focicom_backups.
+2024-08-24T15:29:00.183Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups
+2024-08-24T15:29:00.184Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/fracomex_backups
+2024-08-24T15:29:00.184Z - INFO: Déplacement du fichier le plus récent: FRACOMEX_DATABASE_2024-08-24_18_10_39.sql de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups vers /home/mgbi/Documents/all_backup/fracomex_backups
+2024-08-24T15:29:00.184Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups
+2024-08-24T15:29:00.184Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/bbmay_backups
+2024-08-24T15:29:00.184Z - INFO: Déplacement du fichier le plus récent: BBMAY_DATABASE_2024-08-24_18_10_33.sql de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups vers /home/mgbi/Documents/all_backup/bbmay_backups
+2024-08-24T15:29:00.185Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/focicom/master/focicom/backups
+2024-08-24T15:29:00.185Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/focicom_backups
+2024-08-24T15:29:00.185Z - INFO: Déplacement du fichier le plus récent: FOCICOM_DATABASE_2024-08-24_18_00_48.sql de /home/mgbi/elixir/focicom/master/focicom/backups vers /home/mgbi/Documents/all_backup/focicom_backups
+2024-08-24T15:29:00.186Z - INFO: Déplacement réussi de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups/FRACOMEX_DATABASE_2024-08-24_18_10_39.sql vers /home/mgbi/Documents/all_backup/fracomex_backups/FRACOMEX_DATABASE_2024-08-24_18_10_39.sql
+2024-08-24T15:29:00.186Z - INFO: Le fichier FRACOMEX_DATABASE_2024-08-24_18_10_39.sql a été déplacé avec succès de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups à /home/mgbi/Documents/all_backup/fracomex_backups.
+2024-08-24T15:29:00.186Z - INFO: Déplacement réussi de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups/BBMAY_DATABASE_2024-08-24_18_10_33.sql vers /home/mgbi/Documents/all_backup/bbmay_backups/BBMAY_DATABASE_2024-08-24_18_10_33.sql
+2024-08-24T15:29:00.186Z - INFO: Le fichier BBMAY_DATABASE_2024-08-24_18_10_33.sql a été déplacé avec succès de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups à /home/mgbi/Documents/all_backup/bbmay_backups.
+2024-08-24T15:29:00.186Z - INFO: Déplacement réussi de /home/mgbi/elixir/focicom/master/focicom/backups/FOCICOM_DATABASE_2024-08-24_18_00_48.sql vers /home/mgbi/Documents/all_backup/focicom_backups/FOCICOM_DATABASE_2024-08-24_18_00_48.sql
+2024-08-24T15:29:00.186Z - INFO: Le fichier FOCICOM_DATABASE_2024-08-24_18_00_48.sql a été déplacé avec succès de /home/mgbi/elixir/focicom/master/focicom/backups à /home/mgbi/Documents/all_backup/focicom_backups.
+2024-08-25T15:29:00.397Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/fracomex_backups
+2024-08-25T15:29:00.397Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups
+2024-08-25T15:29:00.397Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/bbmay_backups
+2024-08-25T15:29:00.397Z - INFO: Déplacement du fichier le plus récent: BBMAY_DATABASE_2024-08-25_18_10_35.sql de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups vers /home/mgbi/Documents/all_backup/bbmay_backups
+2024-08-25T15:29:00.397Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/focicom/master/focicom/backups
+2024-08-25T15:29:00.397Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/focicom_backups
+2024-08-25T15:29:00.397Z - INFO: Déplacement du fichier le plus récent: FRACOMEX_DATABASE_2024-08-25_18_10_41.sql de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups vers /home/mgbi/Documents/all_backup/fracomex_backups
+2024-08-25T15:29:00.398Z - INFO: Déplacement du fichier le plus récent: FOCICOM_DATABASE_2024-08-25_18_00_50.sql de /home/mgbi/elixir/focicom/master/focicom/backups vers /home/mgbi/Documents/all_backup/focicom_backups
+2024-08-25T15:29:00.397Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups
+2024-08-25T15:29:00.398Z - INFO: Déplacement réussi de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups/FRACOMEX_DATABASE_2024-08-25_18_10_41.sql vers /home/mgbi/Documents/all_backup/fracomex_backups/FRACOMEX_DATABASE_2024-08-25_18_10_41.sql
+2024-08-25T15:29:00.398Z - INFO: Le fichier FRACOMEX_DATABASE_2024-08-25_18_10_41.sql a été déplacé avec succès de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups à /home/mgbi/Documents/all_backup/fracomex_backups.
+2024-08-25T15:29:00.398Z - INFO: Déplacement réussi de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups/BBMAY_DATABASE_2024-08-25_18_10_35.sql vers /home/mgbi/Documents/all_backup/bbmay_backups/BBMAY_DATABASE_2024-08-25_18_10_35.sql
+2024-08-25T15:29:00.398Z - INFO: Le fichier BBMAY_DATABASE_2024-08-25_18_10_35.sql a été déplacé avec succès de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups à /home/mgbi/Documents/all_backup/bbmay_backups.
+2024-08-25T15:29:00.398Z - INFO: Déplacement réussi de /home/mgbi/elixir/focicom/master/focicom/backups/FOCICOM_DATABASE_2024-08-25_18_00_50.sql vers /home/mgbi/Documents/all_backup/focicom_backups/FOCICOM_DATABASE_2024-08-25_18_00_50.sql
+2024-08-25T15:29:00.398Z - INFO: Le fichier FOCICOM_DATABASE_2024-08-25_18_00_50.sql a été déplacé avec succès de /home/mgbi/elixir/focicom/master/focicom/backups à /home/mgbi/Documents/all_backup/focicom_backups.
+2024-08-26T15:29:00.439Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups
+2024-08-26T15:29:00.440Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/fracomex_backups
+2024-08-26T15:29:00.440Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups
+2024-08-26T15:29:00.440Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/bbmay_backups
+2024-08-26T15:29:00.440Z - INFO: Déplacement du fichier le plus récent: BBMAY_DATABASE_2024-08-26_18_10_37.sql de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups vers /home/mgbi/Documents/all_backup/bbmay_backups
+2024-08-26T15:29:00.440Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/focicom/master/focicom/backups
+2024-08-26T15:29:00.440Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/focicom_backups
+2024-08-26T15:29:00.440Z - INFO: Déplacement du fichier le plus récent: FOCICOM_DATABASE_2024-08-26_18_00_52.sql de /home/mgbi/elixir/focicom/master/focicom/backups vers /home/mgbi/Documents/all_backup/focicom_backups
+2024-08-26T15:29:00.440Z - INFO: Déplacement du fichier le plus récent: FRACOMEX_DATABASE_2024-08-26_18_10_43.sql de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups vers /home/mgbi/Documents/all_backup/fracomex_backups
+2024-08-26T15:29:00.441Z - INFO: Le fichier FRACOMEX_DATABASE_2024-08-26_18_10_43.sql a été déplacé avec succès de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups à /home/mgbi/Documents/all_backup/fracomex_backups.
+2024-08-26T15:29:00.441Z - INFO: Déplacement réussi de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups/BBMAY_DATABASE_2024-08-26_18_10_37.sql vers /home/mgbi/Documents/all_backup/bbmay_backups/BBMAY_DATABASE_2024-08-26_18_10_37.sql
+2024-08-26T15:29:00.441Z - INFO: Déplacement réussi de /home/mgbi/elixir/focicom/master/focicom/backups/FOCICOM_DATABASE_2024-08-26_18_00_52.sql vers /home/mgbi/Documents/all_backup/focicom_backups/FOCICOM_DATABASE_2024-08-26_18_00_52.sql
+2024-08-26T15:29:00.441Z - INFO: Le fichier FOCICOM_DATABASE_2024-08-26_18_00_52.sql a été déplacé avec succès de /home/mgbi/elixir/focicom/master/focicom/backups à /home/mgbi/Documents/all_backup/focicom_backups.
+2024-08-26T15:29:00.441Z - INFO: Le fichier BBMAY_DATABASE_2024-08-26_18_10_37.sql a été déplacé avec succès de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups à /home/mgbi/Documents/all_backup/bbmay_backups.
+2024-08-26T15:29:00.440Z - INFO: Déplacement réussi de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups/FRACOMEX_DATABASE_2024-08-26_18_10_43.sql vers /home/mgbi/Documents/all_backup/fracomex_backups/FRACOMEX_DATABASE_2024-08-26_18_10_43.sql
+2024-08-27T15:29:00.662Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups
+2024-08-27T15:29:00.662Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/fracomex_backups
+2024-08-27T15:29:00.662Z - INFO: Déplacement du fichier le plus récent: FRACOMEX_DATABASE_2024-08-27_18_10_44.sql de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups vers /home/mgbi/Documents/all_backup/fracomex_backups
+2024-08-27T15:29:00.662Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups
+2024-08-27T15:29:00.663Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/bbmay_backups
+2024-08-27T15:29:00.663Z - INFO: Déplacement du fichier le plus récent: BBMAY_DATABASE_2024-08-27_18_10_39.sql de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups vers /home/mgbi/Documents/all_backup/bbmay_backups
+2024-08-27T15:29:00.663Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/focicom_backups
+2024-08-27T15:29:00.663Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/focicom/master/focicom/backups
+2024-08-27T15:29:00.663Z - INFO: Déplacement du fichier le plus récent: FOCICOM_DATABASE_2024-08-27_18_00_54.sql de /home/mgbi/elixir/focicom/master/focicom/backups vers /home/mgbi/Documents/all_backup/focicom_backups
+2024-08-27T15:29:00.663Z - INFO: Déplacement réussi de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups/FRACOMEX_DATABASE_2024-08-27_18_10_44.sql vers /home/mgbi/Documents/all_backup/fracomex_backups/FRACOMEX_DATABASE_2024-08-27_18_10_44.sql
+2024-08-27T15:29:00.663Z - INFO: Le fichier FRACOMEX_DATABASE_2024-08-27_18_10_44.sql a été déplacé avec succès de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups à /home/mgbi/Documents/all_backup/fracomex_backups.
+2024-08-27T15:29:00.663Z - INFO: Déplacement réussi de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups/BBMAY_DATABASE_2024-08-27_18_10_39.sql vers /home/mgbi/Documents/all_backup/bbmay_backups/BBMAY_DATABASE_2024-08-27_18_10_39.sql
+2024-08-27T15:29:00.663Z - INFO: Le fichier BBMAY_DATABASE_2024-08-27_18_10_39.sql a été déplacé avec succès de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups à /home/mgbi/Documents/all_backup/bbmay_backups.
+2024-08-27T15:29:00.663Z - INFO: Déplacement réussi de /home/mgbi/elixir/focicom/master/focicom/backups/FOCICOM_DATABASE_2024-08-27_18_00_54.sql vers /home/mgbi/Documents/all_backup/focicom_backups/FOCICOM_DATABASE_2024-08-27_18_00_54.sql
+2024-08-27T15:29:00.663Z - INFO: Le fichier FOCICOM_DATABASE_2024-08-27_18_00_54.sql a été déplacé avec succès de /home/mgbi/elixir/focicom/master/focicom/backups à /home/mgbi/Documents/all_backup/focicom_backups.
+2024-08-28T15:29:00.781Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups
+2024-08-28T15:29:00.782Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/bbmay_backups
+2024-08-28T15:29:00.783Z - INFO: Déplacement du fichier le plus récent: BBMAY_DATABASE_2024-08-28_18_10_41.sql de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups vers /home/mgbi/Documents/all_backup/bbmay_backups
+2024-08-28T15:29:00.783Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/focicom/master/focicom/backups
+2024-08-28T15:29:00.783Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/focicom_backups
+2024-08-28T15:29:00.782Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/fracomex_backups
+2024-08-28T15:29:00.783Z - INFO: Déplacement du fichier le plus récent: FOCICOM_DATABASE_2024-08-28_18_00_56.sql de /home/mgbi/elixir/focicom/master/focicom/backups vers /home/mgbi/Documents/all_backup/focicom_backups
+2024-08-28T15:29:00.783Z - INFO: Déplacement réussi de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups/FRACOMEX_DATABASE_2024-08-28_18_10_46.sql vers /home/mgbi/Documents/all_backup/fracomex_backups/FRACOMEX_DATABASE_2024-08-28_18_10_46.sql
+2024-08-28T15:29:00.782Z - INFO: Déplacement du fichier le plus récent: FRACOMEX_DATABASE_2024-08-28_18_10_46.sql de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups vers /home/mgbi/Documents/all_backup/fracomex_backups
+2024-08-28T15:29:00.782Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups
+2024-08-28T15:29:00.783Z - INFO: Le fichier FRACOMEX_DATABASE_2024-08-28_18_10_46.sql a été déplacé avec succès de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups à /home/mgbi/Documents/all_backup/fracomex_backups.
+2024-08-28T15:29:00.783Z - INFO: Déplacement réussi de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups/BBMAY_DATABASE_2024-08-28_18_10_41.sql vers /home/mgbi/Documents/all_backup/bbmay_backups/BBMAY_DATABASE_2024-08-28_18_10_41.sql
+2024-08-28T15:29:00.783Z - INFO: Le fichier BBMAY_DATABASE_2024-08-28_18_10_41.sql a été déplacé avec succès de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups à /home/mgbi/Documents/all_backup/bbmay_backups.
+2024-08-28T15:29:00.783Z - INFO: Le fichier FOCICOM_DATABASE_2024-08-28_18_00_56.sql a été déplacé avec succès de /home/mgbi/elixir/focicom/master/focicom/backups à /home/mgbi/Documents/all_backup/focicom_backups.
+2024-08-28T15:29:00.783Z - INFO: Déplacement réussi de /home/mgbi/elixir/focicom/master/focicom/backups/FOCICOM_DATABASE_2024-08-28_18_00_56.sql vers /home/mgbi/Documents/all_backup/focicom_backups/FOCICOM_DATABASE_2024-08-28_18_00_56.sql
+2024-08-29T15:29:00.200Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups
+2024-08-29T15:29:00.200Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/fracomex_backups
+2024-08-29T15:29:00.201Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/bbmay_backups
+2024-08-29T15:29:00.201Z - INFO: Déplacement du fichier le plus récent: BBMAY_DATABASE_2024-08-29_18_10_43.sql de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups vers /home/mgbi/Documents/all_backup/bbmay_backups
+2024-08-29T15:29:00.201Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/focicom/master/focicom/backups
+2024-08-29T15:29:00.202Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/focicom_backups
+2024-08-29T15:29:00.201Z - INFO: Déplacement du fichier le plus récent: FRACOMEX_DATABASE_2024-08-29_18_10_48.sql de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups vers /home/mgbi/Documents/all_backup/fracomex_backups
+2024-08-29T15:29:00.201Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups
+2024-08-29T15:29:00.202Z - INFO: Déplacement du fichier le plus récent: FOCICOM_DATABASE_2024-08-29_18_00_57.sql de /home/mgbi/elixir/focicom/master/focicom/backups vers /home/mgbi/Documents/all_backup/focicom_backups
+2024-08-29T15:29:00.203Z - INFO: Déplacement réussi de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups/BBMAY_DATABASE_2024-08-29_18_10_43.sql vers /home/mgbi/Documents/all_backup/bbmay_backups/BBMAY_DATABASE_2024-08-29_18_10_43.sql
+2024-08-29T15:29:00.203Z - INFO: Déplacement réussi de /home/mgbi/elixir/focicom/master/focicom/backups/FOCICOM_DATABASE_2024-08-29_18_00_57.sql vers /home/mgbi/Documents/all_backup/focicom_backups/FOCICOM_DATABASE_2024-08-29_18_00_57.sql
+2024-08-29T15:29:00.203Z - INFO: Le fichier BBMAY_DATABASE_2024-08-29_18_10_43.sql a été déplacé avec succès de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups à /home/mgbi/Documents/all_backup/bbmay_backups.
+2024-08-29T15:29:00.203Z - INFO: Le fichier FRACOMEX_DATABASE_2024-08-29_18_10_48.sql a été déplacé avec succès de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups à /home/mgbi/Documents/all_backup/fracomex_backups.
+2024-08-29T15:29:00.203Z - INFO: Le fichier FOCICOM_DATABASE_2024-08-29_18_00_57.sql a été déplacé avec succès de /home/mgbi/elixir/focicom/master/focicom/backups à /home/mgbi/Documents/all_backup/focicom_backups.
+2024-08-29T15:29:00.203Z - INFO: Déplacement réussi de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups/FRACOMEX_DATABASE_2024-08-29_18_10_48.sql vers /home/mgbi/Documents/all_backup/fracomex_backups/FRACOMEX_DATABASE_2024-08-29_18_10_48.sql
+2024-08-30T15:29:00.029Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups
+2024-08-30T15:29:00.029Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/fracomex_backups
+2024-08-30T15:29:00.030Z - INFO: Déplacement du fichier le plus récent: FRACOMEX_DATABASE_2024-08-30_18_10_49.sql de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups vers /home/mgbi/Documents/all_backup/fracomex_backups
+2024-08-30T15:29:00.030Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups
+2024-08-30T15:29:00.030Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/bbmay_backups
+2024-08-30T15:29:00.030Z - INFO: Déplacement du fichier le plus récent: BBMAY_DATABASE_2024-08-30_18_10_45.sql de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups vers /home/mgbi/Documents/all_backup/bbmay_backups
+2024-08-30T15:29:00.030Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/focicom/master/focicom/backups
+2024-08-30T15:29:00.031Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/focicom_backups
+2024-08-30T15:29:00.031Z - INFO: Déplacement du fichier le plus récent: FOCICOM_DATABASE_2024-08-30_18_00_59.sql de /home/mgbi/elixir/focicom/master/focicom/backups vers /home/mgbi/Documents/all_backup/focicom_backups
+2024-08-30T15:29:00.031Z - INFO: Déplacement réussi de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups/FRACOMEX_DATABASE_2024-08-30_18_10_49.sql vers /home/mgbi/Documents/all_backup/fracomex_backups/FRACOMEX_DATABASE_2024-08-30_18_10_49.sql
+2024-08-30T15:29:00.032Z - INFO: Le fichier FRACOMEX_DATABASE_2024-08-30_18_10_49.sql a été déplacé avec succès de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups à /home/mgbi/Documents/all_backup/fracomex_backups.
+2024-08-30T15:29:00.032Z - INFO: Déplacement réussi de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups/BBMAY_DATABASE_2024-08-30_18_10_45.sql vers /home/mgbi/Documents/all_backup/bbmay_backups/BBMAY_DATABASE_2024-08-30_18_10_45.sql
+2024-08-30T15:29:00.032Z - INFO: Le fichier BBMAY_DATABASE_2024-08-30_18_10_45.sql a été déplacé avec succès de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups à /home/mgbi/Documents/all_backup/bbmay_backups.
+2024-08-30T15:29:00.032Z - INFO: Déplacement réussi de /home/mgbi/elixir/focicom/master/focicom/backups/FOCICOM_DATABASE_2024-08-30_18_00_59.sql vers /home/mgbi/Documents/all_backup/focicom_backups/FOCICOM_DATABASE_2024-08-30_18_00_59.sql
+2024-08-30T15:29:00.032Z - INFO: Le fichier FOCICOM_DATABASE_2024-08-30_18_00_59.sql a été déplacé avec succès de /home/mgbi/elixir/focicom/master/focicom/backups à /home/mgbi/Documents/all_backup/focicom_backups.
+2024-08-31T15:29:00.045Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups
+2024-08-31T15:29:00.046Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/bbmay_backups
+2024-08-31T15:29:00.045Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/fracomex_backups
+2024-08-31T15:29:00.046Z - INFO: Déplacement du fichier le plus récent: FRACOMEX_DATABASE_2024-08-31_18_10_51.sql de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups vers /home/mgbi/Documents/all_backup/fracomex_backups
+2024-08-31T15:29:00.046Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups
+2024-08-31T15:29:00.047Z - INFO: Déplacement du fichier le plus récent: BBMAY_DATABASE_2024-08-31_18_10_46.sql de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups vers /home/mgbi/Documents/all_backup/bbmay_backups
+2024-08-31T15:29:00.047Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/focicom/master/focicom/backups
+2024-08-31T15:29:00.047Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/focicom_backups
+2024-08-31T15:29:00.047Z - INFO: Déplacement du fichier le plus récent: FOCICOM_DATABASE_2024-08-31_18_00_01.sql de /home/mgbi/elixir/focicom/master/focicom/backups vers /home/mgbi/Documents/all_backup/focicom_backups
+2024-08-31T15:29:00.048Z - INFO: Déplacement réussi de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups/FRACOMEX_DATABASE_2024-08-31_18_10_51.sql vers /home/mgbi/Documents/all_backup/fracomex_backups/FRACOMEX_DATABASE_2024-08-31_18_10_51.sql
+2024-08-31T15:29:00.048Z - INFO: Le fichier FRACOMEX_DATABASE_2024-08-31_18_10_51.sql a été déplacé avec succès de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups à /home/mgbi/Documents/all_backup/fracomex_backups.
+2024-08-31T15:29:00.048Z - INFO: Déplacement réussi de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups/BBMAY_DATABASE_2024-08-31_18_10_46.sql vers /home/mgbi/Documents/all_backup/bbmay_backups/BBMAY_DATABASE_2024-08-31_18_10_46.sql
+2024-08-31T15:29:00.048Z - INFO: Le fichier BBMAY_DATABASE_2024-08-31_18_10_46.sql a été déplacé avec succès de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups à /home/mgbi/Documents/all_backup/bbmay_backups.
+2024-08-31T15:29:00.048Z - INFO: Déplacement réussi de /home/mgbi/elixir/focicom/master/focicom/backups/FOCICOM_DATABASE_2024-08-31_18_00_01.sql vers /home/mgbi/Documents/all_backup/focicom_backups/FOCICOM_DATABASE_2024-08-31_18_00_01.sql
+2024-08-31T15:29:00.048Z - INFO: Le fichier FOCICOM_DATABASE_2024-08-31_18_00_01.sql a été déplacé avec succès de /home/mgbi/elixir/focicom/master/focicom/backups à /home/mgbi/Documents/all_backup/focicom_backups.
+2024-09-01T15:29:00.010Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/fracomex_backups
+2024-09-01T15:29:00.011Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/bbmay_backups
+2024-09-01T15:29:00.010Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups
+2024-09-01T15:29:00.012Z - INFO: Déplacement du fichier le plus récent: BBMAY_DATABASE_2024-09-01_18_10_48.sql de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups vers /home/mgbi/Documents/all_backup/bbmay_backups
+2024-09-01T15:29:00.012Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/focicom/master/focicom/backups
+2024-09-01T15:29:00.012Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/focicom_backups
+2024-09-01T15:29:00.011Z - INFO: Déplacement du fichier le plus récent: FRACOMEX_DATABASE_2024-09-01_18_10_53.sql de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups vers /home/mgbi/Documents/all_backup/fracomex_backups
+2024-09-01T15:29:00.013Z - INFO: Déplacement du fichier le plus récent: FOCICOM_DATABASE_2024-09-01_18_00_02.sql de /home/mgbi/elixir/focicom/master/focicom/backups vers /home/mgbi/Documents/all_backup/focicom_backups
+2024-09-01T15:29:00.011Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups
+2024-09-01T15:29:00.013Z - INFO: Déplacement réussi de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups/FRACOMEX_DATABASE_2024-09-01_18_10_53.sql vers /home/mgbi/Documents/all_backup/fracomex_backups/FRACOMEX_DATABASE_2024-09-01_18_10_53.sql
+2024-09-01T15:29:00.013Z - INFO: Le fichier FRACOMEX_DATABASE_2024-09-01_18_10_53.sql a été déplacé avec succès de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups à /home/mgbi/Documents/all_backup/fracomex_backups.
+2024-09-01T15:29:00.013Z - INFO: Déplacement réussi de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups/BBMAY_DATABASE_2024-09-01_18_10_48.sql vers /home/mgbi/Documents/all_backup/bbmay_backups/BBMAY_DATABASE_2024-09-01_18_10_48.sql
+2024-09-01T15:29:00.013Z - INFO: Le fichier BBMAY_DATABASE_2024-09-01_18_10_48.sql a été déplacé avec succès de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups à /home/mgbi/Documents/all_backup/bbmay_backups.
+2024-09-01T15:29:00.013Z - INFO: Le fichier FOCICOM_DATABASE_2024-09-01_18_00_02.sql a été déplacé avec succès de /home/mgbi/elixir/focicom/master/focicom/backups à /home/mgbi/Documents/all_backup/focicom_backups.
+2024-09-01T15:29:00.013Z - INFO: Déplacement réussi de /home/mgbi/elixir/focicom/master/focicom/backups/FOCICOM_DATABASE_2024-09-01_18_00_02.sql vers /home/mgbi/Documents/all_backup/focicom_backups/FOCICOM_DATABASE_2024-09-01_18_00_02.sql
+2024-09-02T15:29:00.553Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups
+2024-09-02T15:29:00.553Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/bbmay_backups
+2024-09-02T15:29:00.553Z - INFO: Déplacement du fichier le plus récent: BBMAY_DATABASE_2024-09-02_18_10_50.sql de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups vers /home/mgbi/Documents/all_backup/bbmay_backups
+2024-09-02T15:29:00.553Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/fracomex_backups
+2024-09-02T15:29:00.553Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/focicom/master/focicom/backups
+2024-09-02T15:29:00.554Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/focicom_backups
+2024-09-02T15:29:00.554Z - INFO: Déplacement du fichier le plus récent: FOCICOM_DATABASE_2024-09-02_18_00_04.sql de /home/mgbi/elixir/focicom/master/focicom/backups vers /home/mgbi/Documents/all_backup/focicom_backups
+2024-09-02T15:29:00.553Z - INFO: Déplacement du fichier le plus récent: FRACOMEX_DATABASE_2024-09-02_18_10_54.sql de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups vers /home/mgbi/Documents/all_backup/fracomex_backups
+2024-09-02T15:29:00.553Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups
+2024-09-02T15:29:00.554Z - INFO: Déplacement réussi de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups/FRACOMEX_DATABASE_2024-09-02_18_10_54.sql vers /home/mgbi/Documents/all_backup/fracomex_backups/FRACOMEX_DATABASE_2024-09-02_18_10_54.sql
+2024-09-02T15:29:00.554Z - INFO: Le fichier FRACOMEX_DATABASE_2024-09-02_18_10_54.sql a été déplacé avec succès de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups à /home/mgbi/Documents/all_backup/fracomex_backups.
+2024-09-02T15:29:00.554Z - INFO: Déplacement réussi de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups/BBMAY_DATABASE_2024-09-02_18_10_50.sql vers /home/mgbi/Documents/all_backup/bbmay_backups/BBMAY_DATABASE_2024-09-02_18_10_50.sql
+2024-09-02T15:29:00.554Z - INFO: Le fichier BBMAY_DATABASE_2024-09-02_18_10_50.sql a été déplacé avec succès de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups à /home/mgbi/Documents/all_backup/bbmay_backups.
+2024-09-02T15:29:00.554Z - INFO: Déplacement réussi de /home/mgbi/elixir/focicom/master/focicom/backups/FOCICOM_DATABASE_2024-09-02_18_00_04.sql vers /home/mgbi/Documents/all_backup/focicom_backups/FOCICOM_DATABASE_2024-09-02_18_00_04.sql
+2024-09-02T15:29:00.554Z - INFO: Le fichier FOCICOM_DATABASE_2024-09-02_18_00_04.sql a été déplacé avec succès de /home/mgbi/elixir/focicom/master/focicom/backups à /home/mgbi/Documents/all_backup/focicom_backups.
+2024-09-03T15:29:00.506Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups
+2024-09-03T15:29:00.507Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/fracomex_backups
+2024-09-03T15:29:00.508Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups
+2024-09-03T15:29:00.508Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/bbmay_backups
+2024-09-03T15:29:00.508Z - INFO: Déplacement du fichier le plus récent: BBMAY_DATABASE_2024-09-03_18_10_52.sql de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups vers /home/mgbi/Documents/all_backup/bbmay_backups
+2024-09-03T15:29:00.508Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/focicom/master/focicom/backups
+2024-09-03T15:29:00.508Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/focicom_backups
+2024-09-03T15:29:00.509Z - INFO: Déplacement du fichier le plus récent: FOCICOM_DATABASE_2024-09-03_18_00_06.sql de /home/mgbi/elixir/focicom/master/focicom/backups vers /home/mgbi/Documents/all_backup/focicom_backups
+2024-09-03T15:29:00.508Z - INFO: Déplacement du fichier le plus récent: FRACOMEX_DATABASE_2024-09-03_18_10_56.sql de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups vers /home/mgbi/Documents/all_backup/fracomex_backups
+2024-09-03T15:29:00.509Z - INFO: Déplacement réussi de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups/FRACOMEX_DATABASE_2024-09-03_18_10_56.sql vers /home/mgbi/Documents/all_backup/fracomex_backups/FRACOMEX_DATABASE_2024-09-03_18_10_56.sql
+2024-09-03T15:29:00.510Z - INFO: Le fichier FRACOMEX_DATABASE_2024-09-03_18_10_56.sql a été déplacé avec succès de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups à /home/mgbi/Documents/all_backup/fracomex_backups.
+2024-09-03T15:29:00.510Z - INFO: Déplacement réussi de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups/BBMAY_DATABASE_2024-09-03_18_10_52.sql vers /home/mgbi/Documents/all_backup/bbmay_backups/BBMAY_DATABASE_2024-09-03_18_10_52.sql
+2024-09-03T15:29:00.510Z - INFO: Le fichier BBMAY_DATABASE_2024-09-03_18_10_52.sql a été déplacé avec succès de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups à /home/mgbi/Documents/all_backup/bbmay_backups.
+2024-09-03T15:29:04.027Z - INFO: Déplacement réussi de /home/mgbi/elixir/focicom/master/focicom/backups/FOCICOM_DATABASE_2024-09-03_18_00_06.sql vers /home/mgbi/Documents/all_backup/focicom_backups/FOCICOM_DATABASE_2024-09-03_18_00_06.sql
+2024-09-03T15:29:04.028Z - INFO: Le fichier FOCICOM_DATABASE_2024-09-03_18_00_06.sql a été déplacé avec succès de /home/mgbi/elixir/focicom/master/focicom/backups à /home/mgbi/Documents/all_backup/focicom_backups.
+2024-09-04T13:14:49.047Z - INFO: Taille actuelle du répertoire /home/mgbi/Documents/all_backup/fracomex_backups: 1832174 octets
+2024-09-04T13:14:49.048Z - INFO: Taille actuelle du répertoire /home/mgbi/Documents/all_backup/bbmay_backups: 160063496 octets
+2024-09-04T13:14:49.048Z - INFO: Taille actuelle du répertoire /home/mgbi/Documents/all_backup/focicom_backups: 1927821 octets
+2024-09-04T13:24:18.889Z - INFO: Taille actuelle du répertoire /home/mgbi/Documents/all_backup/fracomex_backups: 1832174 octets
+2024-09-04T13:24:18.890Z - INFO: Taille actuelle du répertoire /home/mgbi/Documents/all_backup/bbmay_backups: 160063496 octets
+2024-09-04T13:24:18.890Z - INFO: Taille actuelle du répertoire /home/mgbi/Documents/all_backup/focicom_backups: 1927821 octets
+2024-09-04T15:29:00.907Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups
+2024-09-04T15:29:00.908Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/fracomex_backups
+2024-09-04T15:29:00.909Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/bbmay_backups
+2024-09-04T15:29:00.908Z - INFO: Déplacement du fichier le plus récent: FRACOMEX_DATABASE_2024-09-04_18_10_09.sql de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups vers /home/mgbi/Documents/all_backup/fracomex_backups
+2024-09-04T15:29:00.909Z - INFO: Déplacement du fichier le plus récent: BBMAY_DATABASE_2024-09-04_18_10_09.sql de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups vers /home/mgbi/Documents/all_backup/bbmay_backups
+2024-09-04T15:29:00.909Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/focicom_backups
+2024-09-04T15:29:00.909Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups
+2024-09-04T15:29:00.909Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/focicom/master/focicom/backups
+2024-09-04T15:29:00.909Z - INFO: Déplacement du fichier le plus récent: FOCICOM_DATABASE_2024-09-04_18_00_07.sql de /home/mgbi/elixir/focicom/master/focicom/backups vers /home/mgbi/Documents/all_backup/focicom_backups
+2024-09-04T15:29:00.910Z - INFO: Le fichier FRACOMEX_DATABASE_2024-09-04_18_10_09.sql a été déplacé avec succès de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups à /home/mgbi/Documents/all_backup/fracomex_backups.
+2024-09-04T15:29:00.910Z - INFO: Déplacement réussi de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups/FRACOMEX_DATABASE_2024-09-04_18_10_09.sql vers /home/mgbi/Documents/all_backup/fracomex_backups/FRACOMEX_DATABASE_2024-09-04_18_10_09.sql
+2024-09-04T15:29:00.910Z - INFO: Déplacement réussi de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups/BBMAY_DATABASE_2024-09-04_18_10_09.sql vers /home/mgbi/Documents/all_backup/bbmay_backups/BBMAY_DATABASE_2024-09-04_18_10_09.sql
+2024-09-04T15:29:00.911Z - INFO: Le fichier BBMAY_DATABASE_2024-09-04_18_10_09.sql a été déplacé avec succès de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups à /home/mgbi/Documents/all_backup/bbmay_backups.
+2024-09-04T15:29:00.911Z - INFO: Déplacement réussi de /home/mgbi/elixir/focicom/master/focicom/backups/FOCICOM_DATABASE_2024-09-04_18_00_07.sql vers /home/mgbi/Documents/all_backup/focicom_backups/FOCICOM_DATABASE_2024-09-04_18_00_07.sql
+2024-09-04T15:29:00.911Z - INFO: Le fichier FOCICOM_DATABASE_2024-09-04_18_00_07.sql a été déplacé avec succès de /home/mgbi/elixir/focicom/master/focicom/backups à /home/mgbi/Documents/all_backup/focicom_backups.
+2024-09-05T15:29:00.830Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups
+2024-09-05T15:29:00.832Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/bbmay_backups
+2024-09-05T15:29:00.832Z - INFO: Déplacement du fichier le plus récent: FRACOMEX_DATABASE_2024-09-05_18_10_10.sql de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups vers /home/mgbi/Documents/all_backup/fracomex_backups
+2024-09-05T15:29:00.830Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/fracomex_backups
+2024-09-05T15:29:00.832Z - INFO: Déplacement du fichier le plus récent: BBMAY_DATABASE_2024-09-05_18_10_20.sql de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups vers /home/mgbi/Documents/all_backup/bbmay_backups
+2024-09-05T15:29:00.832Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups
+2024-09-05T15:29:00.832Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/focicom/master/focicom/backups
+2024-09-05T15:29:00.833Z - INFO: Déplacement du fichier le plus récent: FOCICOM_DATABASE_2024-09-05_18_00_19.sql de /home/mgbi/elixir/focicom/master/focicom/backups vers /home/mgbi/Documents/all_backup/focicom_backups
+2024-09-05T15:29:00.832Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/focicom_backups
+2024-09-05T15:29:00.833Z - INFO: Déplacement réussi de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups/FRACOMEX_DATABASE_2024-09-05_18_10_10.sql vers /home/mgbi/Documents/all_backup/fracomex_backups/FRACOMEX_DATABASE_2024-09-05_18_10_10.sql
+2024-09-05T15:29:00.833Z - INFO: Le fichier FRACOMEX_DATABASE_2024-09-05_18_10_10.sql a été déplacé avec succès de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups à /home/mgbi/Documents/all_backup/fracomex_backups.
+2024-09-05T15:29:00.833Z - INFO: Le fichier BBMAY_DATABASE_2024-09-05_18_10_20.sql a été déplacé avec succès de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups à /home/mgbi/Documents/all_backup/bbmay_backups.
+2024-09-05T15:29:00.833Z - INFO: Déplacement réussi de /home/mgbi/elixir/focicom/master/focicom/backups/FOCICOM_DATABASE_2024-09-05_18_00_19.sql vers /home/mgbi/Documents/all_backup/focicom_backups/FOCICOM_DATABASE_2024-09-05_18_00_19.sql
+2024-09-05T15:29:00.833Z - INFO: Le fichier FOCICOM_DATABASE_2024-09-05_18_00_19.sql a été déplacé avec succès de /home/mgbi/elixir/focicom/master/focicom/backups à /home/mgbi/Documents/all_backup/focicom_backups.
+2024-09-05T15:29:00.833Z - INFO: Déplacement réussi de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups/BBMAY_DATABASE_2024-09-05_18_10_20.sql vers /home/mgbi/Documents/all_backup/bbmay_backups/BBMAY_DATABASE_2024-09-05_18_10_20.sql
+2024-09-06T15:29:00.343Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups
+2024-09-06T15:29:00.344Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/bbmay_backups
+2024-09-06T15:29:00.344Z - INFO: Déplacement du fichier le plus récent: BBMAY_DATABASE_2024-09-06_18_10_22.sql de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups vers /home/mgbi/Documents/all_backup/bbmay_backups
+2024-09-06T15:29:00.344Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/focicom/master/focicom/backups
+2024-09-06T15:29:00.343Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/fracomex_backups
+2024-09-06T15:29:00.344Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/focicom_backups
+2024-09-06T15:29:00.345Z - INFO: Déplacement du fichier le plus récent: FOCICOM_DATABASE_2024-09-06_18_00_21.sql de /home/mgbi/elixir/focicom/master/focicom/backups vers /home/mgbi/Documents/all_backup/focicom_backups
+2024-09-06T15:29:00.344Z - INFO: Déplacement du fichier le plus récent: FRACOMEX_DATABASE_2024-09-06_18_10_12.sql de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups vers /home/mgbi/Documents/all_backup/fracomex_backups
+2024-09-06T15:29:00.344Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups
+2024-09-06T15:29:00.345Z - INFO: Déplacement réussi de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups/FRACOMEX_DATABASE_2024-09-06_18_10_12.sql vers /home/mgbi/Documents/all_backup/fracomex_backups/FRACOMEX_DATABASE_2024-09-06_18_10_12.sql
+2024-09-06T15:29:00.345Z - INFO: Le fichier FRACOMEX_DATABASE_2024-09-06_18_10_12.sql a été déplacé avec succès de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups à /home/mgbi/Documents/all_backup/fracomex_backups.
+2024-09-06T15:29:00.345Z - INFO: Déplacement réussi de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups/BBMAY_DATABASE_2024-09-06_18_10_22.sql vers /home/mgbi/Documents/all_backup/bbmay_backups/BBMAY_DATABASE_2024-09-06_18_10_22.sql
+2024-09-06T15:29:00.345Z - INFO: Déplacement réussi de /home/mgbi/elixir/focicom/master/focicom/backups/FOCICOM_DATABASE_2024-09-06_18_00_21.sql vers /home/mgbi/Documents/all_backup/focicom_backups/FOCICOM_DATABASE_2024-09-06_18_00_21.sql
+2024-09-06T15:29:00.345Z - INFO: Le fichier FOCICOM_DATABASE_2024-09-06_18_00_21.sql a été déplacé avec succès de /home/mgbi/elixir/focicom/master/focicom/backups à /home/mgbi/Documents/all_backup/focicom_backups.
+2024-09-06T15:29:00.345Z - INFO: Le fichier BBMAY_DATABASE_2024-09-06_18_10_22.sql a été déplacé avec succès de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups à /home/mgbi/Documents/all_backup/bbmay_backups.
+2024-09-07T15:29:00.492Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups
+2024-09-07T15:29:00.493Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/bbmay_backups
+2024-09-07T15:29:00.492Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/fracomex_backups
+2024-09-07T15:29:00.493Z - INFO: Déplacement du fichier le plus récent: BBMAY_DATABASE_2024-09-07_18_10_24.sql de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups vers /home/mgbi/Documents/all_backup/bbmay_backups
+2024-09-07T15:29:00.493Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/focicom/master/focicom/backups
+2024-09-07T15:29:00.494Z - INFO: Déplacement du fichier le plus récent: FOCICOM_DATABASE_2024-09-07_18_00_23.sql de /home/mgbi/elixir/focicom/master/focicom/backups vers /home/mgbi/Documents/all_backup/focicom_backups
+2024-09-07T15:29:00.493Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/focicom_backups
+2024-09-07T15:29:00.493Z - INFO: Déplacement du fichier le plus récent: FRACOMEX_DATABASE_2024-09-07_18_10_14.sql de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups vers /home/mgbi/Documents/all_backup/fracomex_backups
+2024-09-07T15:29:00.493Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups
+2024-09-07T15:29:00.494Z - INFO: Déplacement réussi de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups/FRACOMEX_DATABASE_2024-09-07_18_10_14.sql vers /home/mgbi/Documents/all_backup/fracomex_backups/FRACOMEX_DATABASE_2024-09-07_18_10_14.sql
+2024-09-07T15:29:00.494Z - INFO: Le fichier FRACOMEX_DATABASE_2024-09-07_18_10_14.sql a été déplacé avec succès de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups à /home/mgbi/Documents/all_backup/fracomex_backups.
+2024-09-07T15:29:00.494Z - INFO: Déplacement réussi de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups/BBMAY_DATABASE_2024-09-07_18_10_24.sql vers /home/mgbi/Documents/all_backup/bbmay_backups/BBMAY_DATABASE_2024-09-07_18_10_24.sql
+2024-09-07T15:29:00.494Z - INFO: Le fichier BBMAY_DATABASE_2024-09-07_18_10_24.sql a été déplacé avec succès de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups à /home/mgbi/Documents/all_backup/bbmay_backups.
+2024-09-07T15:29:00.494Z - INFO: Déplacement réussi de /home/mgbi/elixir/focicom/master/focicom/backups/FOCICOM_DATABASE_2024-09-07_18_00_23.sql vers /home/mgbi/Documents/all_backup/focicom_backups/FOCICOM_DATABASE_2024-09-07_18_00_23.sql
+2024-09-07T15:29:00.494Z - INFO: Le fichier FOCICOM_DATABASE_2024-09-07_18_00_23.sql a été déplacé avec succès de /home/mgbi/elixir/focicom/master/focicom/backups à /home/mgbi/Documents/all_backup/focicom_backups.
+2024-09-08T15:29:00.563Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups
+2024-09-08T15:29:00.563Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/fracomex_backups
+2024-09-08T15:29:00.564Z - INFO: Déplacement du fichier le plus récent: FRACOMEX_DATABASE_2024-09-08_18_10_15.sql de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups vers /home/mgbi/Documents/all_backup/fracomex_backups
+2024-09-08T15:29:00.564Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups
+2024-09-08T15:29:00.564Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/bbmay_backups
+2024-09-08T15:29:00.565Z - INFO: Déplacement du fichier le plus récent: BBMAY_DATABASE_2024-09-08_18_10_26.sql de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups vers /home/mgbi/Documents/all_backup/bbmay_backups
+2024-09-08T15:29:00.565Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/focicom/master/focicom/backups
+2024-09-08T15:29:00.565Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/focicom_backups
+2024-09-08T15:29:00.566Z - INFO: Déplacement du fichier le plus récent: FOCICOM_DATABASE_2024-09-08_18_00_25.sql de /home/mgbi/elixir/focicom/master/focicom/backups vers /home/mgbi/Documents/all_backup/focicom_backups
+2024-09-08T15:29:00.572Z - INFO: Déplacement réussi de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups/FRACOMEX_DATABASE_2024-09-08_18_10_15.sql vers /home/mgbi/Documents/all_backup/fracomex_backups/FRACOMEX_DATABASE_2024-09-08_18_10_15.sql
+2024-09-08T15:29:00.572Z - INFO: Le fichier FRACOMEX_DATABASE_2024-09-08_18_10_15.sql a été déplacé avec succès de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups à /home/mgbi/Documents/all_backup/fracomex_backups.
+2024-09-08T15:29:00.572Z - INFO: Déplacement réussi de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups/BBMAY_DATABASE_2024-09-08_18_10_26.sql vers /home/mgbi/Documents/all_backup/bbmay_backups/BBMAY_DATABASE_2024-09-08_18_10_26.sql
+2024-09-08T15:29:00.572Z - INFO: Le fichier BBMAY_DATABASE_2024-09-08_18_10_26.sql a été déplacé avec succès de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups à /home/mgbi/Documents/all_backup/bbmay_backups.
+2024-09-08T15:29:00.572Z - INFO: Déplacement réussi de /home/mgbi/elixir/focicom/master/focicom/backups/FOCICOM_DATABASE_2024-09-08_18_00_25.sql vers /home/mgbi/Documents/all_backup/focicom_backups/FOCICOM_DATABASE_2024-09-08_18_00_25.sql
+2024-09-08T15:29:00.572Z - INFO: Le fichier FOCICOM_DATABASE_2024-09-08_18_00_25.sql a été déplacé avec succès de /home/mgbi/elixir/focicom/master/focicom/backups à /home/mgbi/Documents/all_backup/focicom_backups.
+2024-09-09T15:29:00.336Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups
+2024-09-09T15:29:00.336Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/fracomex_backups
+2024-09-09T15:29:00.337Z - INFO: Déplacement du fichier le plus récent: FRACOMEX_DATABASE_2024-09-09_18_10_17.sql de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups vers /home/mgbi/Documents/all_backup/fracomex_backups
+2024-09-09T15:29:00.337Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups
+2024-09-09T15:29:00.337Z - INFO: Déplacement du fichier le plus récent: BBMAY_DATABASE_2024-09-09_18_10_27.sql de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups vers /home/mgbi/Documents/all_backup/bbmay_backups
+2024-09-09T15:29:00.337Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/bbmay_backups
+2024-09-09T15:29:00.337Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/focicom/master/focicom/backups
+2024-09-09T15:29:00.337Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/focicom_backups
+2024-09-09T15:29:00.337Z - INFO: Déplacement du fichier le plus récent: FOCICOM_DATABASE_2024-09-09_18_00_26.sql de /home/mgbi/elixir/focicom/master/focicom/backups vers /home/mgbi/Documents/all_backup/focicom_backups
+2024-09-09T15:29:00.337Z - INFO: Déplacement réussi de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups/FRACOMEX_DATABASE_2024-09-09_18_10_17.sql vers /home/mgbi/Documents/all_backup/fracomex_backups/FRACOMEX_DATABASE_2024-09-09_18_10_17.sql
+2024-09-09T15:29:00.337Z - INFO: Le fichier FRACOMEX_DATABASE_2024-09-09_18_10_17.sql a été déplacé avec succès de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups à /home/mgbi/Documents/all_backup/fracomex_backups.
+2024-09-09T15:29:00.338Z - INFO: Déplacement réussi de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups/BBMAY_DATABASE_2024-09-09_18_10_27.sql vers /home/mgbi/Documents/all_backup/bbmay_backups/BBMAY_DATABASE_2024-09-09_18_10_27.sql
+2024-09-09T15:29:00.338Z - INFO: Le fichier BBMAY_DATABASE_2024-09-09_18_10_27.sql a été déplacé avec succès de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups à /home/mgbi/Documents/all_backup/bbmay_backups.
+2024-09-09T15:29:00.338Z - INFO: Déplacement réussi de /home/mgbi/elixir/focicom/master/focicom/backups/FOCICOM_DATABASE_2024-09-09_18_00_26.sql vers /home/mgbi/Documents/all_backup/focicom_backups/FOCICOM_DATABASE_2024-09-09_18_00_26.sql
+2024-09-09T15:29:00.338Z - INFO: Le fichier FOCICOM_DATABASE_2024-09-09_18_00_26.sql a été déplacé avec succès de /home/mgbi/elixir/focicom/master/focicom/backups à /home/mgbi/Documents/all_backup/focicom_backups.
+2024-09-10T15:29:00.534Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups
+2024-09-10T15:29:00.534Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/bbmay_backups
+2024-09-10T15:29:00.534Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/fracomex_backups
+2024-09-10T15:29:00.534Z - INFO: Déplacement du fichier le plus récent: FRACOMEX_DATABASE_2024-09-10_18_10_19.sql de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups vers /home/mgbi/Documents/all_backup/fracomex_backups
+2024-09-10T15:29:00.535Z - INFO: Déplacement du fichier le plus récent: BBMAY_DATABASE_2024-09-10_18_10_29.sql de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups vers /home/mgbi/Documents/all_backup/bbmay_backups
+2024-09-10T15:29:00.535Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/focicom/master/focicom/backups
+2024-09-10T15:29:00.535Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/focicom_backups
+2024-09-10T15:29:00.535Z - INFO: Déplacement du fichier le plus récent: FOCICOM_DATABASE_2024-09-10_18_00_28.sql de /home/mgbi/elixir/focicom/master/focicom/backups vers /home/mgbi/Documents/all_backup/focicom_backups
+2024-09-10T15:29:00.534Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups
+2024-09-10T15:29:00.535Z - INFO: Déplacement réussi de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups/FRACOMEX_DATABASE_2024-09-10_18_10_19.sql vers /home/mgbi/Documents/all_backup/fracomex_backups/FRACOMEX_DATABASE_2024-09-10_18_10_19.sql
+2024-09-10T15:29:00.535Z - INFO: Le fichier FRACOMEX_DATABASE_2024-09-10_18_10_19.sql a été déplacé avec succès de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups à /home/mgbi/Documents/all_backup/fracomex_backups.
+2024-09-10T15:29:00.535Z - INFO: Le fichier BBMAY_DATABASE_2024-09-10_18_10_29.sql a été déplacé avec succès de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups à /home/mgbi/Documents/all_backup/bbmay_backups.
+2024-09-10T15:29:00.536Z - INFO: Déplacement réussi de /home/mgbi/elixir/focicom/master/focicom/backups/FOCICOM_DATABASE_2024-09-10_18_00_28.sql vers /home/mgbi/Documents/all_backup/focicom_backups/FOCICOM_DATABASE_2024-09-10_18_00_28.sql
+2024-09-10T15:29:00.535Z - INFO: Déplacement réussi de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups/BBMAY_DATABASE_2024-09-10_18_10_29.sql vers /home/mgbi/Documents/all_backup/bbmay_backups/BBMAY_DATABASE_2024-09-10_18_10_29.sql
+2024-09-10T15:29:00.536Z - INFO: Le fichier FOCICOM_DATABASE_2024-09-10_18_00_28.sql a été déplacé avec succès de /home/mgbi/elixir/focicom/master/focicom/backups à /home/mgbi/Documents/all_backup/focicom_backups.
+2024-09-11T15:29:00.979Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups
+2024-09-11T15:29:00.979Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/fracomex_backups
+2024-09-11T15:29:00.980Z - INFO: Déplacement du fichier le plus récent: FRACOMEX_DATABASE_2024-09-11_18_10_20.sql de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups vers /home/mgbi/Documents/all_backup/fracomex_backups
+2024-09-11T15:29:00.980Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups
+2024-09-11T15:29:00.980Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/bbmay_backups
+2024-09-11T15:29:00.981Z - INFO: Déplacement du fichier le plus récent: BBMAY_DATABASE_2024-09-11_18_10_31.sql de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups vers /home/mgbi/Documents/all_backup/bbmay_backups
+2024-09-11T15:29:00.981Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/focicom/master/focicom/backups
+2024-09-11T15:29:00.981Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/focicom_backups
+2024-09-11T15:29:00.981Z - INFO: Déplacement du fichier le plus récent: FOCICOM_DATABASE_2024-09-11_18_00_30.sql de /home/mgbi/elixir/focicom/master/focicom/backups vers /home/mgbi/Documents/all_backup/focicom_backups
+2024-09-11T15:29:00.982Z - INFO: Déplacement réussi de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups/FRACOMEX_DATABASE_2024-09-11_18_10_20.sql vers /home/mgbi/Documents/all_backup/fracomex_backups/FRACOMEX_DATABASE_2024-09-11_18_10_20.sql
+2024-09-11T15:29:00.982Z - INFO: Le fichier FRACOMEX_DATABASE_2024-09-11_18_10_20.sql a été déplacé avec succès de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups à /home/mgbi/Documents/all_backup/fracomex_backups.
+2024-09-11T15:29:00.982Z - INFO: Déplacement réussi de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups/BBMAY_DATABASE_2024-09-11_18_10_31.sql vers /home/mgbi/Documents/all_backup/bbmay_backups/BBMAY_DATABASE_2024-09-11_18_10_31.sql
+2024-09-11T15:29:00.982Z - INFO: Le fichier BBMAY_DATABASE_2024-09-11_18_10_31.sql a été déplacé avec succès de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups à /home/mgbi/Documents/all_backup/bbmay_backups.
+2024-09-11T15:29:00.982Z - INFO: Déplacement réussi de /home/mgbi/elixir/focicom/master/focicom/backups/FOCICOM_DATABASE_2024-09-11_18_00_30.sql vers /home/mgbi/Documents/all_backup/focicom_backups/FOCICOM_DATABASE_2024-09-11_18_00_30.sql
+2024-09-11T15:29:00.982Z - INFO: Le fichier FOCICOM_DATABASE_2024-09-11_18_00_30.sql a été déplacé avec succès de /home/mgbi/elixir/focicom/master/focicom/backups à /home/mgbi/Documents/all_backup/focicom_backups.
+2024-09-12T15:29:00.957Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups
+2024-09-12T15:29:00.958Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/bbmay_backups
+2024-09-12T15:29:00.958Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/fracomex_backups
+2024-09-12T15:29:00.959Z - INFO: Déplacement du fichier le plus récent: BBMAY_DATABASE_2024-09-12_18_10_33.sql de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups vers /home/mgbi/Documents/all_backup/bbmay_backups
+2024-09-12T15:29:00.958Z - INFO: Déplacement du fichier le plus récent: FRACOMEX_DATABASE_2024-09-12_18_10_22.sql de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups vers /home/mgbi/Documents/all_backup/fracomex_backups
+2024-09-12T15:29:00.958Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups
+2024-09-12T15:29:00.959Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/focicom/master/focicom/backups
+2024-09-12T15:29:00.959Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/focicom_backups
+2024-09-12T15:29:00.959Z - INFO: Déplacement du fichier le plus récent: FOCICOM_DATABASE_2024-09-12_18_00_31.sql de /home/mgbi/elixir/focicom/master/focicom/backups vers /home/mgbi/Documents/all_backup/focicom_backups
+2024-09-12T15:29:00.960Z - INFO: Déplacement réussi de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups/FRACOMEX_DATABASE_2024-09-12_18_10_22.sql vers /home/mgbi/Documents/all_backup/fracomex_backups/FRACOMEX_DATABASE_2024-09-12_18_10_22.sql
+2024-09-12T15:29:00.960Z - INFO: Le fichier FRACOMEX_DATABASE_2024-09-12_18_10_22.sql a été déplacé avec succès de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups à /home/mgbi/Documents/all_backup/fracomex_backups.
+2024-09-12T15:29:00.960Z - INFO: Déplacement réussi de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups/BBMAY_DATABASE_2024-09-12_18_10_33.sql vers /home/mgbi/Documents/all_backup/bbmay_backups/BBMAY_DATABASE_2024-09-12_18_10_33.sql
+2024-09-12T15:29:00.960Z - INFO: Le fichier BBMAY_DATABASE_2024-09-12_18_10_33.sql a été déplacé avec succès de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups à /home/mgbi/Documents/all_backup/bbmay_backups.
+2024-09-12T15:29:00.960Z - INFO: Déplacement réussi de /home/mgbi/elixir/focicom/master/focicom/backups/FOCICOM_DATABASE_2024-09-12_18_00_31.sql vers /home/mgbi/Documents/all_backup/focicom_backups/FOCICOM_DATABASE_2024-09-12_18_00_31.sql
+2024-09-12T15:29:00.960Z - INFO: Le fichier FOCICOM_DATABASE_2024-09-12_18_00_31.sql a été déplacé avec succès de /home/mgbi/elixir/focicom/master/focicom/backups à /home/mgbi/Documents/all_backup/focicom_backups.
+2024-09-13T15:29:00.295Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups
+2024-09-13T15:29:00.295Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/fracomex_backups
+2024-09-13T15:29:00.295Z - INFO: Déplacement du fichier le plus récent: FRACOMEX_DATABASE_2024-09-13_18_10_24.sql de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups vers /home/mgbi/Documents/all_backup/fracomex_backups
+2024-09-13T15:29:00.295Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups
+2024-09-13T15:29:00.295Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/bbmay_backups
+2024-09-13T15:29:00.296Z - INFO: Déplacement du fichier le plus récent: BBMAY_DATABASE_2024-09-13_18_10_35.sql de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups vers /home/mgbi/Documents/all_backup/bbmay_backups
+2024-09-13T15:29:00.296Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/focicom/master/focicom/backups
+2024-09-13T15:29:00.296Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/focicom_backups
+2024-09-13T15:29:00.296Z - INFO: Déplacement du fichier le plus récent: FOCICOM_DATABASE_2024-09-13_18_00_33.sql de /home/mgbi/elixir/focicom/master/focicom/backups vers /home/mgbi/Documents/all_backup/focicom_backups
+2024-09-13T15:29:00.296Z - INFO: Déplacement réussi de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups/FRACOMEX_DATABASE_2024-09-13_18_10_24.sql vers /home/mgbi/Documents/all_backup/fracomex_backups/FRACOMEX_DATABASE_2024-09-13_18_10_24.sql
+2024-09-13T15:29:00.297Z - INFO: Le fichier FRACOMEX_DATABASE_2024-09-13_18_10_24.sql a été déplacé avec succès de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups à /home/mgbi/Documents/all_backup/fracomex_backups.
+2024-09-13T15:29:00.297Z - INFO: Déplacement réussi de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups/BBMAY_DATABASE_2024-09-13_18_10_35.sql vers /home/mgbi/Documents/all_backup/bbmay_backups/BBMAY_DATABASE_2024-09-13_18_10_35.sql
+2024-09-13T15:29:00.297Z - INFO: Le fichier BBMAY_DATABASE_2024-09-13_18_10_35.sql a été déplacé avec succès de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups à /home/mgbi/Documents/all_backup/bbmay_backups.
+2024-09-13T15:29:00.297Z - INFO: Déplacement réussi de /home/mgbi/elixir/focicom/master/focicom/backups/FOCICOM_DATABASE_2024-09-13_18_00_33.sql vers /home/mgbi/Documents/all_backup/focicom_backups/FOCICOM_DATABASE_2024-09-13_18_00_33.sql
+2024-09-13T15:29:00.297Z - INFO: Le fichier FOCICOM_DATABASE_2024-09-13_18_00_33.sql a été déplacé avec succès de /home/mgbi/elixir/focicom/master/focicom/backups à /home/mgbi/Documents/all_backup/focicom_backups.
+2024-09-14T15:29:00.876Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups
+2024-09-14T15:29:00.878Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/bbmay_backups
+2024-09-14T15:29:00.878Z - INFO: Déplacement du fichier le plus récent: BBMAY_DATABASE_2024-09-14_18_10_37.sql de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups vers /home/mgbi/Documents/all_backup/bbmay_backups
+2024-09-14T15:29:00.878Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/focicom/master/focicom/backups
+2024-09-14T15:29:00.878Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/focicom_backups
+2024-09-14T15:29:00.877Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/fracomex_backups
+2024-09-14T15:29:00.877Z - INFO: Déplacement du fichier le plus récent: FRACOMEX_DATABASE_2024-09-14_18_10_25.sql de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups vers /home/mgbi/Documents/all_backup/fracomex_backups
+2024-09-14T15:29:00.878Z - INFO: Déplacement du fichier le plus récent: FOCICOM_DATABASE_2024-09-14_18_00_35.sql de /home/mgbi/elixir/focicom/master/focicom/backups vers /home/mgbi/Documents/all_backup/focicom_backups
+2024-09-14T15:29:00.878Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups
+2024-09-14T15:29:00.879Z - INFO: Déplacement réussi de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups/FRACOMEX_DATABASE_2024-09-14_18_10_25.sql vers /home/mgbi/Documents/all_backup/fracomex_backups/FRACOMEX_DATABASE_2024-09-14_18_10_25.sql
+2024-09-14T15:29:00.879Z - INFO: Le fichier BBMAY_DATABASE_2024-09-14_18_10_37.sql a été déplacé avec succès de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups à /home/mgbi/Documents/all_backup/bbmay_backups.
+2024-09-14T15:29:00.879Z - INFO: Déplacement réussi de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups/BBMAY_DATABASE_2024-09-14_18_10_37.sql vers /home/mgbi/Documents/all_backup/bbmay_backups/BBMAY_DATABASE_2024-09-14_18_10_37.sql
+2024-09-14T15:29:00.879Z - INFO: Déplacement réussi de /home/mgbi/elixir/focicom/master/focicom/backups/FOCICOM_DATABASE_2024-09-14_18_00_35.sql vers /home/mgbi/Documents/all_backup/focicom_backups/FOCICOM_DATABASE_2024-09-14_18_00_35.sql
+2024-09-14T15:29:00.879Z - INFO: Le fichier FOCICOM_DATABASE_2024-09-14_18_00_35.sql a été déplacé avec succès de /home/mgbi/elixir/focicom/master/focicom/backups à /home/mgbi/Documents/all_backup/focicom_backups.
+2024-09-14T15:29:00.879Z - INFO: Le fichier FRACOMEX_DATABASE_2024-09-14_18_10_25.sql a été déplacé avec succès de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups à /home/mgbi/Documents/all_backup/fracomex_backups.
+2024-09-14T20:59:00.704Z - INFO: Fichier supprimé avec succès: /home/mgbi/Documents/all_backup/fracomex_backups/FRACOMEX_DATABASE_2024-08-27_18_10_44.sql
+2024-09-14T20:59:00.705Z - INFO: Fichier supprimé car trop ancien: /home/mgbi/Documents/all_backup/fracomex_backups/FRACOMEX_DATABASE_2024-08-27_18_10_44.sql
+2024-09-14T20:59:00.705Z - INFO: Fichier supprimé avec succès: /home/mgbi/Documents/all_backup/fracomex_backups/FRACOMEX_DATABASE_2024-08-28_18_10_46.sql
+2024-09-14T20:59:00.705Z - INFO: Fichier supprimé car trop ancien: /home/mgbi/Documents/all_backup/fracomex_backups/FRACOMEX_DATABASE_2024-08-28_18_10_46.sql
+2024-09-14T20:59:00.705Z - INFO: Fichier supprimé avec succès: /home/mgbi/Documents/all_backup/fracomex_backups/FRACOMEX_DATABASE_2024-08-30_18_10_49.sql
+2024-09-14T20:59:00.705Z - INFO: Fichier supprimé car trop ancien: /home/mgbi/Documents/all_backup/fracomex_backups/FRACOMEX_DATABASE_2024-08-30_18_10_49.sql
+2024-09-14T20:59:00.705Z - INFO: Fichier supprimé avec succès: /home/mgbi/Documents/all_backup/fracomex_backups/FRACOMEX_DATABASE_2024-09-02_18_10_54.sql
+2024-09-14T20:59:00.705Z - INFO: Fichier supprimé car trop ancien: /home/mgbi/Documents/all_backup/fracomex_backups/FRACOMEX_DATABASE_2024-09-02_18_10_54.sql
+2024-09-14T20:59:00.705Z - INFO: Fichier supprimé avec succès: /home/mgbi/Documents/all_backup/fracomex_backups/FRACOMEX_DATABASE_2024-09-04_18_10_09.sql
+2024-09-14T20:59:00.705Z - INFO: Fichier supprimé car trop ancien: /home/mgbi/Documents/all_backup/fracomex_backups/FRACOMEX_DATABASE_2024-09-04_18_10_09.sql
+2024-09-14T20:59:00.705Z - INFO: Fichier supprimé avec succès: /home/mgbi/Documents/all_backup/fracomex_backups/FRACOMEX_DATABASE_2024-08-29_18_10_48.sql
+2024-09-14T20:59:00.705Z - INFO: Fichier supprimé avec succès: /home/mgbi/Documents/all_backup/fracomex_backups/FRACOMEX_DATABASE_2024-09-05_18_10_10.sql
+2024-09-14T20:59:00.706Z - INFO: Fichier supprimé car trop ancien: /home/mgbi/Documents/all_backup/fracomex_backups/FRACOMEX_DATABASE_2024-09-05_18_10_10.sql
+2024-09-14T20:59:00.706Z - INFO: Fichier supprimé avec succès: /home/mgbi/Documents/all_backup/fracomex_backups/FRACOMEX_DATABASE_2024-09-06_18_10_12.sql
+2024-09-14T20:59:00.706Z - INFO: Fichier supprimé avec succès: /home/mgbi/Documents/all_backup/fracomex_backups/FRACOMEX_DATABASE_2024-08-31_18_10_51.sql
+2024-09-14T20:59:00.706Z - INFO: Fichier supprimé car trop ancien: /home/mgbi/Documents/all_backup/fracomex_backups/FRACOMEX_DATABASE_2024-08-31_18_10_51.sql
+2024-09-14T20:59:00.706Z - INFO: Fichier supprimé avec succès: /home/mgbi/Documents/all_backup/fracomex_backups/FRACOMEX_DATABASE_2024-09-01_18_10_53.sql
+2024-09-14T20:59:00.705Z - INFO: Fichier supprimé car trop ancien: /home/mgbi/Documents/all_backup/fracomex_backups/FRACOMEX_DATABASE_2024-08-29_18_10_48.sql
+2024-09-14T20:59:00.706Z - INFO: Fichier supprimé car trop ancien: /home/mgbi/Documents/all_backup/fracomex_backups/FRACOMEX_DATABASE_2024-09-01_18_10_53.sql
+2024-09-14T20:59:00.706Z - INFO: Fichier supprimé car trop ancien: /home/mgbi/Documents/all_backup/fracomex_backups/FRACOMEX_DATABASE_2024-09-06_18_10_12.sql
+2024-09-14T20:59:00.706Z - INFO: Fichier supprimé car trop ancien: /home/mgbi/Documents/all_backup/fracomex_backups/FRACOMEX_DATABASE_2024-09-03_18_10_56.sql
+2024-09-14T20:59:00.706Z - INFO: Fichier supprimé avec succès: /home/mgbi/Documents/all_backup/fracomex_backups/FRACOMEX_DATABASE_2024-09-07_18_10_14.sql
+2024-09-14T20:59:00.706Z - INFO: Fichier supprimé car trop ancien: /home/mgbi/Documents/all_backup/fracomex_backups/FRACOMEX_DATABASE_2024-09-07_18_10_14.sql
+2024-09-14T20:59:00.706Z - INFO: Fichier supprimé avec succès: /home/mgbi/Documents/all_backup/fracomex_backups/FRACOMEX_DATABASE_2024-09-03_18_10_56.sql
+2024-09-15T15:29:00.858Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups
+2024-09-15T15:29:00.858Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/fracomex_backups
+2024-09-15T15:29:00.858Z - INFO: Déplacement du fichier le plus récent: FRACOMEX_DATABASE_2024-09-15_18_10_27.sql de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups vers /home/mgbi/Documents/all_backup/fracomex_backups
+2024-09-15T15:29:00.858Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups
+2024-09-15T15:29:00.858Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/bbmay_backups
+2024-09-15T15:29:00.859Z - INFO: Déplacement du fichier le plus récent: BBMAY_DATABASE_2024-09-15_18_10_39.sql de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups vers /home/mgbi/Documents/all_backup/bbmay_backups
+2024-09-15T15:29:00.859Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/focicom/master/focicom/backups
+2024-09-15T15:29:00.859Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/focicom_backups
+2024-09-15T15:29:00.859Z - INFO: Déplacement du fichier le plus récent: FOCICOM_DATABASE_2024-09-15_18_00_36.sql de /home/mgbi/elixir/focicom/master/focicom/backups vers /home/mgbi/Documents/all_backup/focicom_backups
+2024-09-15T15:29:00.861Z - INFO: Déplacement réussi de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups/FRACOMEX_DATABASE_2024-09-15_18_10_27.sql vers /home/mgbi/Documents/all_backup/fracomex_backups/FRACOMEX_DATABASE_2024-09-15_18_10_27.sql
+2024-09-15T15:29:00.861Z - INFO: Le fichier FRACOMEX_DATABASE_2024-09-15_18_10_27.sql a été déplacé avec succès de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups à /home/mgbi/Documents/all_backup/fracomex_backups.
+2024-09-15T15:29:00.861Z - INFO: Déplacement réussi de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups/BBMAY_DATABASE_2024-09-15_18_10_39.sql vers /home/mgbi/Documents/all_backup/bbmay_backups/BBMAY_DATABASE_2024-09-15_18_10_39.sql
+2024-09-15T15:29:00.861Z - INFO: Le fichier BBMAY_DATABASE_2024-09-15_18_10_39.sql a été déplacé avec succès de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups à /home/mgbi/Documents/all_backup/bbmay_backups.
+2024-09-15T15:29:00.861Z - INFO: Déplacement réussi de /home/mgbi/elixir/focicom/master/focicom/backups/FOCICOM_DATABASE_2024-09-15_18_00_36.sql vers /home/mgbi/Documents/all_backup/focicom_backups/FOCICOM_DATABASE_2024-09-15_18_00_36.sql
+2024-09-15T15:29:00.861Z - INFO: Le fichier FOCICOM_DATABASE_2024-09-15_18_00_36.sql a été déplacé avec succès de /home/mgbi/elixir/focicom/master/focicom/backups à /home/mgbi/Documents/all_backup/focicom_backups.
+2024-09-15T20:59:00.559Z - INFO: Taille actuelle du répertoire /home/mgbi/Documents/all_backup/fracomex_backups: 1609248 octets
+2024-09-15T20:59:00.560Z - INFO: Taille actuelle du répertoire /home/mgbi/Documents/all_backup/bbmay_backups: 320126992 octets
+2024-09-15T20:59:00.561Z - INFO: Taille actuelle du répertoire /home/mgbi/Documents/all_backup/focicom_backups: 4869777 octets
+2024-09-15T20:59:00.561Z - INFO: Fichier supprimé avec succès: /home/mgbi/Documents/all_backup/fracomex_backups/FRACOMEX_DATABASE_2024-09-08_18_10_15.sql
+2024-09-15T20:59:00.562Z - INFO: Fichier supprimé car trop ancien: /home/mgbi/Documents/all_backup/fracomex_backups/FRACOMEX_DATABASE_2024-09-08_18_10_15.sql
+2024-09-15T20:59:00.562Z - INFO: Fichier supprimé car trop ancien: /home/mgbi/Documents/all_backup/bbmay_backups/BBMAY_DATABASE_2024-08-29_18_10_43.sql
+2024-09-15T20:59:00.562Z - INFO: Fichier supprimé avec succès: /home/mgbi/Documents/all_backup/bbmay_backups/BBMAY_DATABASE_2024-08-29_18_10_43.sql
+2024-09-15T20:59:00.562Z - INFO: Fichier supprimé avec succès: /home/mgbi/Documents/all_backup/bbmay_backups/BBMAY_DATABASE_2024-08-30_18_10_45.sql
+2024-09-15T20:59:00.562Z - INFO: Fichier supprimé car trop ancien: /home/mgbi/Documents/all_backup/bbmay_backups/BBMAY_DATABASE_2024-08-28_18_10_41.sql
+2024-09-15T20:59:00.562Z - INFO: Fichier supprimé avec succès: /home/mgbi/Documents/all_backup/bbmay_backups/BBMAY_DATABASE_2024-09-01_18_10_48.sql
+2024-09-15T20:59:00.562Z - INFO: Fichier supprimé car trop ancien: /home/mgbi/Documents/all_backup/bbmay_backups/BBMAY_DATABASE_2024-08-27_18_10_39.sql
+2024-09-15T20:59:00.562Z - INFO: Fichier supprimé car trop ancien: /home/mgbi/Documents/all_backup/bbmay_backups/BBMAY_DATABASE_2024-09-01_18_10_48.sql
+2024-09-15T20:59:00.562Z - INFO: Fichier supprimé avec succès: /home/mgbi/Documents/all_backup/bbmay_backups/BBMAY_DATABASE_2024-09-02_18_10_50.sql
+2024-09-15T20:59:00.562Z - INFO: Fichier supprimé car trop ancien: /home/mgbi/Documents/all_backup/bbmay_backups/BBMAY_DATABASE_2024-09-02_18_10_50.sql
+2024-09-15T20:59:00.562Z - INFO: Fichier supprimé avec succès: /home/mgbi/Documents/all_backup/bbmay_backups/BBMAY_DATABASE_2024-08-31_18_10_46.sql
+2024-09-15T20:59:00.562Z - INFO: Fichier supprimé car trop ancien: /home/mgbi/Documents/all_backup/bbmay_backups/BBMAY_DATABASE_2024-08-31_18_10_46.sql
+2024-09-15T20:59:00.562Z - INFO: Fichier supprimé car trop ancien: /home/mgbi/Documents/all_backup/bbmay_backups/BBMAY_DATABASE_2024-08-30_18_10_45.sql
+2024-09-15T20:59:00.562Z - INFO: Fichier supprimé avec succès: /home/mgbi/Documents/all_backup/bbmay_backups/BBMAY_DATABASE_2024-09-03_18_10_52.sql
+2024-09-15T20:59:00.562Z - INFO: Fichier supprimé car trop ancien: /home/mgbi/Documents/all_backup/bbmay_backups/BBMAY_DATABASE_2024-09-03_18_10_52.sql
+2024-09-15T20:59:00.562Z - INFO: Fichier supprimé avec succès: /home/mgbi/Documents/all_backup/bbmay_backups/BBMAY_DATABASE_2024-08-28_18_10_41.sql
+2024-09-15T20:59:00.562Z - INFO: Fichier supprimé avec succès: /home/mgbi/Documents/all_backup/bbmay_backups/BBMAY_DATABASE_2024-09-04_18_10_09.sql
+2024-09-15T20:59:00.562Z - INFO: Fichier supprimé car trop ancien: /home/mgbi/Documents/all_backup/bbmay_backups/BBMAY_DATABASE_2024-09-04_18_10_09.sql
+2024-09-15T20:59:00.562Z - INFO: Fichier supprimé avec succès: /home/mgbi/Documents/all_backup/bbmay_backups/BBMAY_DATABASE_2024-08-27_18_10_39.sql
+2024-09-15T20:59:00.563Z - INFO: Fichier supprimé avec succès: /home/mgbi/Documents/all_backup/bbmay_backups/BBMAY_DATABASE_2024-09-07_18_10_24.sql
+2024-09-15T20:59:00.563Z - INFO: Fichier supprimé car trop ancien: /home/mgbi/Documents/all_backup/bbmay_backups/BBMAY_DATABASE_2024-09-07_18_10_24.sql
+2024-09-15T20:59:00.563Z - INFO: Fichier supprimé avec succès: /home/mgbi/Documents/all_backup/bbmay_backups/BBMAY_DATABASE_2024-09-05_18_10_20.sql
+2024-09-15T20:59:00.563Z - INFO: Fichier supprimé car trop ancien: /home/mgbi/Documents/all_backup/bbmay_backups/BBMAY_DATABASE_2024-09-05_18_10_20.sql
+2024-09-15T20:59:00.563Z - INFO: Fichier supprimé avec succès: /home/mgbi/Documents/all_backup/focicom_backups/FOCICOM_DATABASE_2024-08-28_18_00_56.sql
+2024-09-15T20:59:00.563Z - INFO: Fichier supprimé car trop ancien: /home/mgbi/Documents/all_backup/bbmay_backups/BBMAY_DATABASE_2024-09-06_18_10_22.sql
+2024-09-15T20:59:00.563Z - INFO: Fichier supprimé avec succès: /home/mgbi/Documents/all_backup/bbmay_backups/BBMAY_DATABASE_2024-09-06_18_10_22.sql
+2024-09-15T20:59:00.563Z - INFO: Fichier supprimé car trop ancien: /home/mgbi/Documents/all_backup/focicom_backups/FOCICOM_DATABASE_2024-08-28_18_00_56.sql
+2024-09-15T20:59:00.563Z - INFO: Fichier supprimé avec succès: /home/mgbi/Documents/all_backup/focicom_backups/FOCICOM_DATABASE_2024-08-30_18_00_59.sql
+2024-09-15T20:59:00.563Z - INFO: Fichier supprimé avec succès: /home/mgbi/Documents/all_backup/focicom_backups/FOCICOM_DATABASE_2024-08-31_18_00_01.sql
+2024-09-15T20:59:00.563Z - INFO: Fichier supprimé car trop ancien: /home/mgbi/Documents/all_backup/focicom_backups/FOCICOM_DATABASE_2024-08-30_18_00_59.sql
+2024-09-15T20:59:00.563Z - INFO: Fichier supprimé car trop ancien: /home/mgbi/Documents/all_backup/focicom_backups/FOCICOM_DATABASE_2024-08-31_18_00_01.sql
+2024-09-15T20:59:00.563Z - INFO: Fichier supprimé avec succès: /home/mgbi/Documents/all_backup/focicom_backups/FOCICOM_DATABASE_2024-09-01_18_00_02.sql
+2024-09-15T20:59:00.563Z - INFO: Fichier supprimé avec succès: /home/mgbi/Documents/all_backup/focicom_backups/FOCICOM_DATABASE_2024-09-02_18_00_04.sql
+2024-09-15T20:59:00.563Z - INFO: Fichier supprimé car trop ancien: /home/mgbi/Documents/all_backup/focicom_backups/FOCICOM_DATABASE_2024-09-02_18_00_04.sql
+2024-09-15T20:59:00.563Z - INFO: Fichier supprimé avec succès: /home/mgbi/Documents/all_backup/focicom_backups/FOCICOM_DATABASE_2024-09-03_18_00_06.sql
+2024-09-15T20:59:00.563Z - INFO: Fichier supprimé car trop ancien: /home/mgbi/Documents/all_backup/focicom_backups/FOCICOM_DATABASE_2024-09-03_18_00_06.sql
+2024-09-15T20:59:00.563Z - INFO: Fichier supprimé avec succès: /home/mgbi/Documents/all_backup/focicom_backups/FOCICOM_DATABASE_2024-09-05_18_00_19.sql
+2024-09-15T20:59:00.563Z - INFO: Fichier supprimé avec succès: /home/mgbi/Documents/all_backup/focicom_backups/FOCICOM_DATABASE_2024-09-04_18_00_07.sql
+2024-09-15T20:59:00.563Z - INFO: Fichier supprimé car trop ancien: /home/mgbi/Documents/all_backup/focicom_backups/FOCICOM_DATABASE_2024-09-05_18_00_19.sql
+2024-09-15T20:59:00.563Z - INFO: Fichier supprimé car trop ancien: /home/mgbi/Documents/all_backup/focicom_backups/FOCICOM_DATABASE_2024-09-01_18_00_02.sql
+2024-09-15T20:59:00.563Z - INFO: Fichier supprimé car trop ancien: /home/mgbi/Documents/all_backup/bbmay_backups/BBMAY_DATABASE_2024-09-08_18_10_26.sql
+2024-09-15T20:59:00.563Z - INFO: Fichier supprimé avec succès: /home/mgbi/Documents/all_backup/bbmay_backups/BBMAY_DATABASE_2024-09-08_18_10_26.sql
+2024-09-15T20:59:00.563Z - INFO: Fichier supprimé avec succès: /home/mgbi/Documents/all_backup/focicom_backups/FOCICOM_DATABASE_2024-09-07_18_00_23.sql
+2024-09-15T20:59:00.563Z - INFO: Fichier supprimé car trop ancien: /home/mgbi/Documents/all_backup/focicom_backups/FOCICOM_DATABASE_2024-08-27_18_00_54.sql
+2024-09-15T20:59:00.563Z - INFO: Fichier supprimé avec succès: /home/mgbi/Documents/all_backup/focicom_backups/FOCICOM_DATABASE_2024-08-27_18_00_54.sql
+2024-09-15T20:59:00.563Z - INFO: Fichier supprimé car trop ancien: /home/mgbi/Documents/all_backup/focicom_backups/FOCICOM_DATABASE_2024-09-04_18_00_07.sql
+2024-09-15T20:59:00.563Z - INFO: Fichier supprimé car trop ancien: /home/mgbi/Documents/all_backup/focicom_backups/FOCICOM_DATABASE_2024-09-07_18_00_23.sql
+2024-09-15T20:59:00.563Z - INFO: Fichier supprimé avec succès: /home/mgbi/Documents/all_backup/focicom_backups/FOCICOM_DATABASE_2024-09-08_18_00_25.sql
+2024-09-15T20:59:00.563Z - INFO: Fichier supprimé car trop ancien: /home/mgbi/Documents/all_backup/focicom_backups/FOCICOM_DATABASE_2024-09-08_18_00_25.sql
+2024-09-15T20:59:00.563Z - INFO: Fichier supprimé avec succès: /home/mgbi/Documents/all_backup/focicom_backups/FOCICOM_DATABASE_2024-08-29_18_00_57.sql
+2024-09-15T20:59:00.563Z - INFO: Fichier supprimé car trop ancien: /home/mgbi/Documents/all_backup/focicom_backups/FOCICOM_DATABASE_2024-08-29_18_00_57.sql
+2024-09-15T20:59:00.563Z - INFO: Fichier supprimé car trop ancien: /home/mgbi/Documents/all_backup/focicom_backups/FOCICOM_DATABASE_2024-09-06_18_00_21.sql
+2024-09-15T20:59:00.563Z - INFO: Fichier supprimé avec succès: /home/mgbi/Documents/all_backup/focicom_backups/FOCICOM_DATABASE_2024-09-06_18_00_21.sql
+2024-09-16T15:29:00.606Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups
+2024-09-16T15:29:00.606Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/fracomex_backups
+2024-09-16T15:29:00.607Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups
+2024-09-16T15:29:00.607Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/bbmay_backups
+2024-09-16T15:29:00.608Z - INFO: Déplacement du fichier le plus récent: BBMAY_DATABASE_2024-09-16_18_10_41.sql de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups vers /home/mgbi/Documents/all_backup/bbmay_backups
+2024-09-16T15:29:00.608Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/focicom/master/focicom/backups
+2024-09-16T15:29:00.608Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/focicom_backups
+2024-09-16T15:29:00.607Z - INFO: Déplacement du fichier le plus récent: FRACOMEX_DATABASE_2024-09-16_18_10_29.sql de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups vers /home/mgbi/Documents/all_backup/fracomex_backups
+2024-09-16T15:29:00.608Z - INFO: Déplacement du fichier le plus récent: FOCICOM_DATABASE_2024-09-16_18_00_38.sql de /home/mgbi/elixir/focicom/master/focicom/backups vers /home/mgbi/Documents/all_backup/focicom_backups
+2024-09-16T15:29:00.608Z - INFO: Le fichier FRACOMEX_DATABASE_2024-09-16_18_10_29.sql a été déplacé avec succès de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups à /home/mgbi/Documents/all_backup/fracomex_backups.
+2024-09-16T15:29:00.608Z - INFO: Déplacement réussi de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups/BBMAY_DATABASE_2024-09-16_18_10_41.sql vers /home/mgbi/Documents/all_backup/bbmay_backups/BBMAY_DATABASE_2024-09-16_18_10_41.sql
+2024-09-16T15:29:00.608Z - INFO: Le fichier BBMAY_DATABASE_2024-09-16_18_10_41.sql a été déplacé avec succès de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups à /home/mgbi/Documents/all_backup/bbmay_backups.
+2024-09-16T15:29:00.608Z - INFO: Déplacement réussi de /home/mgbi/elixir/focicom/master/focicom/backups/FOCICOM_DATABASE_2024-09-16_18_00_38.sql vers /home/mgbi/Documents/all_backup/focicom_backups/FOCICOM_DATABASE_2024-09-16_18_00_38.sql
+2024-09-16T15:29:00.609Z - INFO: Le fichier FOCICOM_DATABASE_2024-09-16_18_00_38.sql a été déplacé avec succès de /home/mgbi/elixir/focicom/master/focicom/backups à /home/mgbi/Documents/all_backup/focicom_backups.
+2024-09-16T15:29:00.608Z - INFO: Déplacement réussi de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups/FRACOMEX_DATABASE_2024-09-16_18_10_29.sql vers /home/mgbi/Documents/all_backup/fracomex_backups/FRACOMEX_DATABASE_2024-09-16_18_10_29.sql
+2024-09-17T15:29:00.234Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups
+2024-09-17T15:29:00.235Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/bbmay_backups
+2024-09-17T15:29:00.234Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/fracomex_backups
+2024-09-17T15:29:00.235Z - INFO: Déplacement du fichier le plus récent: BBMAY_DATABASE_2024-09-17_18_10_43.sql de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups vers /home/mgbi/Documents/all_backup/bbmay_backups
+2024-09-17T15:29:00.236Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/focicom/master/focicom/backups
+2024-09-17T15:29:00.235Z - INFO: Déplacement du fichier le plus récent: FRACOMEX_DATABASE_2024-09-17_18_10_30.sql de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups vers /home/mgbi/Documents/all_backup/fracomex_backups
+2024-09-17T15:29:00.236Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/focicom_backups
+2024-09-17T15:29:00.235Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups
+2024-09-17T15:29:00.236Z - INFO: Déplacement du fichier le plus récent: FOCICOM_DATABASE_2024-09-17_18_00_40.sql de /home/mgbi/elixir/focicom/master/focicom/backups vers /home/mgbi/Documents/all_backup/focicom_backups
+2024-09-17T15:29:00.236Z - INFO: Déplacement réussi de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups/FRACOMEX_DATABASE_2024-09-17_18_10_30.sql vers /home/mgbi/Documents/all_backup/fracomex_backups/FRACOMEX_DATABASE_2024-09-17_18_10_30.sql
+2024-09-17T15:29:00.236Z - INFO: Le fichier FRACOMEX_DATABASE_2024-09-17_18_10_30.sql a été déplacé avec succès de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups à /home/mgbi/Documents/all_backup/fracomex_backups.
+2024-09-17T15:29:00.236Z - INFO: Déplacement réussi de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups/BBMAY_DATABASE_2024-09-17_18_10_43.sql vers /home/mgbi/Documents/all_backup/bbmay_backups/BBMAY_DATABASE_2024-09-17_18_10_43.sql
+2024-09-17T15:29:00.236Z - INFO: Le fichier BBMAY_DATABASE_2024-09-17_18_10_43.sql a été déplacé avec succès de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups à /home/mgbi/Documents/all_backup/bbmay_backups.
+2024-09-17T15:29:00.237Z - INFO: Déplacement réussi de /home/mgbi/elixir/focicom/master/focicom/backups/FOCICOM_DATABASE_2024-09-17_18_00_40.sql vers /home/mgbi/Documents/all_backup/focicom_backups/FOCICOM_DATABASE_2024-09-17_18_00_40.sql
+2024-09-17T15:29:00.237Z - INFO: Le fichier FOCICOM_DATABASE_2024-09-17_18_00_40.sql a été déplacé avec succès de /home/mgbi/elixir/focicom/master/focicom/backups à /home/mgbi/Documents/all_backup/focicom_backups.
+2024-09-18T15:29:00.877Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups
+2024-09-18T15:29:00.878Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/bbmay_backups
+2024-09-18T15:29:00.877Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/fracomex_backups
+2024-09-18T15:29:00.879Z - INFO: Déplacement du fichier le plus récent: BBMAY_DATABASE_2024-09-18_18_10_45.sql de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups vers /home/mgbi/Documents/all_backup/bbmay_backups
+2024-09-18T15:29:00.879Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/focicom/master/focicom/backups
+2024-09-18T15:29:00.879Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/focicom_backups
+2024-09-18T15:29:00.879Z - INFO: Déplacement du fichier le plus récent: FOCICOM_DATABASE_2024-09-18_18_00_41.sql de /home/mgbi/elixir/focicom/master/focicom/backups vers /home/mgbi/Documents/all_backup/focicom_backups
+2024-09-18T15:29:00.878Z - INFO: Déplacement du fichier le plus récent: FRACOMEX_DATABASE_2024-09-18_18_10_32.sql de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups vers /home/mgbi/Documents/all_backup/fracomex_backups
+2024-09-18T15:29:00.879Z - INFO: Déplacement réussi de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups/FRACOMEX_DATABASE_2024-09-18_18_10_32.sql vers /home/mgbi/Documents/all_backup/fracomex_backups/FRACOMEX_DATABASE_2024-09-18_18_10_32.sql
+2024-09-18T15:29:00.878Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups
+2024-09-18T15:29:00.879Z - INFO: Le fichier FRACOMEX_DATABASE_2024-09-18_18_10_32.sql a été déplacé avec succès de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups à /home/mgbi/Documents/all_backup/fracomex_backups.
+2024-09-18T15:29:00.879Z - INFO: Déplacement réussi de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups/BBMAY_DATABASE_2024-09-18_18_10_45.sql vers /home/mgbi/Documents/all_backup/bbmay_backups/BBMAY_DATABASE_2024-09-18_18_10_45.sql
+2024-09-18T15:29:00.879Z - INFO: Le fichier BBMAY_DATABASE_2024-09-18_18_10_45.sql a été déplacé avec succès de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups à /home/mgbi/Documents/all_backup/bbmay_backups.
+2024-09-18T15:29:00.879Z - INFO: Déplacement réussi de /home/mgbi/elixir/focicom/master/focicom/backups/FOCICOM_DATABASE_2024-09-18_18_00_41.sql vers /home/mgbi/Documents/all_backup/focicom_backups/FOCICOM_DATABASE_2024-09-18_18_00_41.sql
+2024-09-18T15:29:00.879Z - INFO: Le fichier FOCICOM_DATABASE_2024-09-18_18_00_41.sql a été déplacé avec succès de /home/mgbi/elixir/focicom/master/focicom/backups à /home/mgbi/Documents/all_backup/focicom_backups.
+2024-09-19T15:29:00.604Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups
+2024-09-19T15:29:00.605Z - INFO: Déplacement du fichier le plus récent: FRACOMEX_DATABASE_2024-09-19_18_10_34.sql de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups vers /home/mgbi/Documents/all_backup/fracomex_backups
+2024-09-19T15:29:00.605Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/bbmay_backups
+2024-09-19T15:29:00.605Z - INFO: Déplacement du fichier le plus récent: BBMAY_DATABASE_2024-09-19_18_10_47.sql de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups vers /home/mgbi/Documents/all_backup/bbmay_backups
+2024-09-19T15:29:00.604Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/fracomex_backups
+2024-09-19T15:29:00.605Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups
+2024-09-19T15:29:00.605Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/focicom/master/focicom/backups
+2024-09-19T15:29:00.605Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/focicom_backups
+2024-09-19T15:29:00.606Z - INFO: Déplacement du fichier le plus récent: FOCICOM_DATABASE_2024-09-19_18_00_43.sql de /home/mgbi/elixir/focicom/master/focicom/backups vers /home/mgbi/Documents/all_backup/focicom_backups
+2024-09-19T15:29:00.606Z - INFO: Déplacement réussi de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups/FRACOMEX_DATABASE_2024-09-19_18_10_34.sql vers /home/mgbi/Documents/all_backup/fracomex_backups/FRACOMEX_DATABASE_2024-09-19_18_10_34.sql
+2024-09-19T15:29:00.606Z - INFO: Le fichier FRACOMEX_DATABASE_2024-09-19_18_10_34.sql a été déplacé avec succès de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups à /home/mgbi/Documents/all_backup/fracomex_backups.
+2024-09-19T15:29:00.606Z - INFO: Déplacement réussi de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups/BBMAY_DATABASE_2024-09-19_18_10_47.sql vers /home/mgbi/Documents/all_backup/bbmay_backups/BBMAY_DATABASE_2024-09-19_18_10_47.sql
+2024-09-19T15:29:00.606Z - INFO: Le fichier BBMAY_DATABASE_2024-09-19_18_10_47.sql a été déplacé avec succès de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups à /home/mgbi/Documents/all_backup/bbmay_backups.
+2024-09-19T15:29:00.606Z - INFO: Déplacement réussi de /home/mgbi/elixir/focicom/master/focicom/backups/FOCICOM_DATABASE_2024-09-19_18_00_43.sql vers /home/mgbi/Documents/all_backup/focicom_backups/FOCICOM_DATABASE_2024-09-19_18_00_43.sql
+2024-09-19T15:29:00.606Z - INFO: Le fichier FOCICOM_DATABASE_2024-09-19_18_00_43.sql a été déplacé avec succès de /home/mgbi/elixir/focicom/master/focicom/backups à /home/mgbi/Documents/all_backup/focicom_backups.
+2024-09-20T15:29:00.503Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups
+2024-09-20T15:29:00.503Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/fracomex_backups
+2024-09-20T15:29:00.504Z - INFO: Déplacement du fichier le plus récent: FRACOMEX_DATABASE_2024-09-20_18_10_35.sql de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups vers /home/mgbi/Documents/all_backup/fracomex_backups
+2024-09-20T15:29:00.504Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups
+2024-09-20T15:29:00.504Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/bbmay_backups
+2024-09-20T15:29:00.504Z - INFO: Déplacement du fichier le plus récent: BBMAY_DATABASE_2024-09-20_18_10_49.sql de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups vers /home/mgbi/Documents/all_backup/bbmay_backups
+2024-09-20T15:29:00.504Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/focicom/master/focicom/backups
+2024-09-20T15:29:00.504Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/focicom_backups
+2024-09-20T15:29:00.505Z - INFO: Déplacement réussi de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups/FRACOMEX_DATABASE_2024-09-20_18_10_35.sql vers /home/mgbi/Documents/all_backup/fracomex_backups/FRACOMEX_DATABASE_2024-09-20_18_10_35.sql
+2024-09-20T15:29:00.505Z - INFO: Le fichier FRACOMEX_DATABASE_2024-09-20_18_10_35.sql a été déplacé avec succès de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups à /home/mgbi/Documents/all_backup/fracomex_backups.
+2024-09-20T15:29:00.505Z - INFO: Déplacement du fichier le plus récent: FOCICOM_DATABASE_2024-09-20_18_00_45.sql de /home/mgbi/elixir/focicom/master/focicom/backups vers /home/mgbi/Documents/all_backup/focicom_backups
+2024-09-20T15:29:00.505Z - INFO: Déplacement réussi de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups/BBMAY_DATABASE_2024-09-20_18_10_49.sql vers /home/mgbi/Documents/all_backup/bbmay_backups/BBMAY_DATABASE_2024-09-20_18_10_49.sql
+2024-09-20T15:29:00.505Z - INFO: Le fichier BBMAY_DATABASE_2024-09-20_18_10_49.sql a été déplacé avec succès de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups à /home/mgbi/Documents/all_backup/bbmay_backups.
+2024-09-20T15:29:00.506Z - INFO: Le fichier FOCICOM_DATABASE_2024-09-20_18_00_45.sql a été déplacé avec succès de /home/mgbi/elixir/focicom/master/focicom/backups à /home/mgbi/Documents/all_backup/focicom_backups.
+2024-09-20T15:29:00.505Z - INFO: Déplacement réussi de /home/mgbi/elixir/focicom/master/focicom/backups/FOCICOM_DATABASE_2024-09-20_18_00_45.sql vers /home/mgbi/Documents/all_backup/focicom_backups/FOCICOM_DATABASE_2024-09-20_18_00_45.sql
+2024-09-21T15:29:00.436Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups
+2024-09-21T15:29:00.436Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/fracomex_backups
+2024-09-21T15:29:00.437Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/bbmay_backups
+2024-09-21T15:29:00.437Z - INFO: Déplacement du fichier le plus récent: BBMAY_DATABASE_2024-09-21_18_10_51.sql de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups vers /home/mgbi/Documents/all_backup/bbmay_backups
+2024-09-21T15:29:00.437Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/focicom/master/focicom/backups
+2024-09-21T15:29:00.437Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/focicom_backups
+2024-09-21T15:29:00.436Z - INFO: Déplacement du fichier le plus récent: FRACOMEX_DATABASE_2024-09-21_18_10_37.sql de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups vers /home/mgbi/Documents/all_backup/fracomex_backups
+2024-09-21T15:29:00.437Z - INFO: Déplacement du fichier le plus récent: FOCICOM_DATABASE_2024-09-21_18_00_46.sql de /home/mgbi/elixir/focicom/master/focicom/backups vers /home/mgbi/Documents/all_backup/focicom_backups
+2024-09-21T15:29:00.437Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups
+2024-09-21T15:29:00.438Z - INFO: Le fichier FRACOMEX_DATABASE_2024-09-21_18_10_37.sql a été déplacé avec succès de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups à /home/mgbi/Documents/all_backup/fracomex_backups.
+2024-09-21T15:29:00.438Z - INFO: Déplacement réussi de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups/BBMAY_DATABASE_2024-09-21_18_10_51.sql vers /home/mgbi/Documents/all_backup/bbmay_backups/BBMAY_DATABASE_2024-09-21_18_10_51.sql
+2024-09-21T15:29:00.438Z - INFO: Déplacement réussi de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups/FRACOMEX_DATABASE_2024-09-21_18_10_37.sql vers /home/mgbi/Documents/all_backup/fracomex_backups/FRACOMEX_DATABASE_2024-09-21_18_10_37.sql
+2024-09-21T15:29:00.438Z - INFO: Le fichier BBMAY_DATABASE_2024-09-21_18_10_51.sql a été déplacé avec succès de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups à /home/mgbi/Documents/all_backup/bbmay_backups.
+2024-09-21T15:29:00.438Z - INFO: Déplacement réussi de /home/mgbi/elixir/focicom/master/focicom/backups/FOCICOM_DATABASE_2024-09-21_18_00_46.sql vers /home/mgbi/Documents/all_backup/focicom_backups/FOCICOM_DATABASE_2024-09-21_18_00_46.sql
+2024-09-21T15:29:00.438Z - INFO: Le fichier FOCICOM_DATABASE_2024-09-21_18_00_46.sql a été déplacé avec succès de /home/mgbi/elixir/focicom/master/focicom/backups à /home/mgbi/Documents/all_backup/focicom_backups.
+2024-09-21T20:59:00.494Z - INFO: Taille actuelle du répertoire /home/mgbi/Documents/all_backup/fracomex_backups: 1612261 octets
+2024-09-21T20:59:00.495Z - INFO: Taille actuelle du répertoire /home/mgbi/Documents/all_backup/bbmay_backups: 180071433 octets
+2024-09-21T20:59:00.497Z - INFO: Taille actuelle du répertoire /home/mgbi/Documents/all_backup/focicom_backups: 3187122 octets
+2024-09-21T20:59:00.497Z - INFO: Fichier supprimé avec succès: /home/mgbi/Documents/all_backup/fracomex_backups/FRACOMEX_DATABASE_2024-09-09_18_10_17.sql
+2024-09-21T20:59:00.497Z - INFO: Fichier supprimé car trop ancien: /home/mgbi/Documents/all_backup/fracomex_backups/FRACOMEX_DATABASE_2024-09-09_18_10_17.sql
+2024-09-21T20:59:00.497Z - INFO: Fichier supprimé avec succès: /home/mgbi/Documents/all_backup/fracomex_backups/FRACOMEX_DATABASE_2024-09-10_18_10_19.sql
+2024-09-21T20:59:00.497Z - INFO: Fichier supprimé car trop ancien: /home/mgbi/Documents/all_backup/fracomex_backups/FRACOMEX_DATABASE_2024-09-10_18_10_19.sql
+2024-09-21T20:59:00.497Z - INFO: Fichier supprimé avec succès: /home/mgbi/Documents/all_backup/fracomex_backups/FRACOMEX_DATABASE_2024-09-12_18_10_22.sql
+2024-09-21T20:59:00.497Z - INFO: Fichier supprimé car trop ancien: /home/mgbi/Documents/all_backup/fracomex_backups/FRACOMEX_DATABASE_2024-09-12_18_10_22.sql
+2024-09-21T20:59:00.498Z - INFO: Fichier supprimé avec succès: /home/mgbi/Documents/all_backup/fracomex_backups/FRACOMEX_DATABASE_2024-09-11_18_10_20.sql
+2024-09-21T20:59:00.498Z - INFO: Fichier supprimé car trop ancien: /home/mgbi/Documents/all_backup/fracomex_backups/FRACOMEX_DATABASE_2024-09-11_18_10_20.sql
+2024-09-21T20:59:00.498Z - INFO: Fichier supprimé avec succès: /home/mgbi/Documents/all_backup/fracomex_backups/FRACOMEX_DATABASE_2024-09-13_18_10_24.sql
+2024-09-21T20:59:00.498Z - INFO: Fichier supprimé car trop ancien: /home/mgbi/Documents/all_backup/fracomex_backups/FRACOMEX_DATABASE_2024-09-13_18_10_24.sql
+2024-09-21T20:59:00.498Z - INFO: Fichier supprimé avec succès: /home/mgbi/Documents/all_backup/fracomex_backups/FRACOMEX_DATABASE_2024-09-14_18_10_25.sql
+2024-09-21T20:59:00.498Z - INFO: Fichier supprimé car trop ancien: /home/mgbi/Documents/all_backup/fracomex_backups/FRACOMEX_DATABASE_2024-09-14_18_10_25.sql
+2024-09-21T20:59:00.498Z - INFO: Fichier supprimé avec succès: /home/mgbi/Documents/all_backup/bbmay_backups/BBMAY_DATABASE_2024-09-09_18_10_27.sql
+2024-09-21T20:59:00.498Z - INFO: Fichier supprimé car trop ancien: /home/mgbi/Documents/all_backup/bbmay_backups/BBMAY_DATABASE_2024-09-09_18_10_27.sql
+2024-09-21T20:59:00.498Z - INFO: Fichier supprimé avec succès: /home/mgbi/Documents/all_backup/bbmay_backups/BBMAY_DATABASE_2024-09-10_18_10_29.sql
+2024-09-21T20:59:00.498Z - INFO: Fichier supprimé car trop ancien: /home/mgbi/Documents/all_backup/bbmay_backups/BBMAY_DATABASE_2024-09-10_18_10_29.sql
+2024-09-21T20:59:00.499Z - INFO: Fichier supprimé avec succès: /home/mgbi/Documents/all_backup/bbmay_backups/BBMAY_DATABASE_2024-09-12_18_10_33.sql
+2024-09-21T20:59:00.499Z - INFO: Fichier supprimé car trop ancien: /home/mgbi/Documents/all_backup/bbmay_backups/BBMAY_DATABASE_2024-09-12_18_10_33.sql
+2024-09-21T20:59:00.499Z - INFO: Fichier supprimé avec succès: /home/mgbi/Documents/all_backup/bbmay_backups/BBMAY_DATABASE_2024-09-14_18_10_37.sql
+2024-09-21T20:59:00.499Z - INFO: Fichier supprimé car trop ancien: /home/mgbi/Documents/all_backup/bbmay_backups/BBMAY_DATABASE_2024-09-14_18_10_37.sql
+2024-09-21T20:59:00.499Z - INFO: Fichier supprimé avec succès: /home/mgbi/Documents/all_backup/bbmay_backups/BBMAY_DATABASE_2024-09-13_18_10_35.sql
+2024-09-21T20:59:00.499Z - INFO: Fichier supprimé car trop ancien: /home/mgbi/Documents/all_backup/bbmay_backups/BBMAY_DATABASE_2024-09-13_18_10_35.sql
+2024-09-21T20:59:00.499Z - INFO: Fichier supprimé avec succès: /home/mgbi/Documents/all_backup/focicom_backups/FOCICOM_DATABASE_2024-09-11_18_00_30.sql
+2024-09-21T20:59:00.499Z - INFO: Fichier supprimé car trop ancien: /home/mgbi/Documents/all_backup/focicom_backups/FOCICOM_DATABASE_2024-09-11_18_00_30.sql
+2024-09-21T20:59:00.499Z - INFO: Fichier supprimé avec succès: /home/mgbi/Documents/all_backup/focicom_backups/FOCICOM_DATABASE_2024-09-12_18_00_31.sql
+2024-09-21T20:59:00.499Z - INFO: Fichier supprimé car trop ancien: /home/mgbi/Documents/all_backup/focicom_backups/FOCICOM_DATABASE_2024-09-12_18_00_31.sql
+2024-09-21T20:59:00.499Z - INFO: Fichier supprimé avec succès: /home/mgbi/Documents/all_backup/bbmay_backups/BBMAY_DATABASE_2024-09-11_18_10_31.sql
+2024-09-21T20:59:00.499Z - INFO: Fichier supprimé car trop ancien: /home/mgbi/Documents/all_backup/bbmay_backups/BBMAY_DATABASE_2024-09-11_18_10_31.sql
+2024-09-21T20:59:00.499Z - INFO: Fichier supprimé avec succès: /home/mgbi/Documents/all_backup/focicom_backups/FOCICOM_DATABASE_2024-09-09_18_00_26.sql
+2024-09-21T20:59:00.499Z - INFO: Fichier supprimé car trop ancien: /home/mgbi/Documents/all_backup/focicom_backups/FOCICOM_DATABASE_2024-09-09_18_00_26.sql
+2024-09-21T20:59:00.499Z - INFO: Fichier supprimé avec succès: /home/mgbi/Documents/all_backup/focicom_backups/FOCICOM_DATABASE_2024-09-10_18_00_28.sql
+2024-09-21T20:59:00.499Z - INFO: Fichier supprimé car trop ancien: /home/mgbi/Documents/all_backup/focicom_backups/FOCICOM_DATABASE_2024-09-10_18_00_28.sql
+2024-09-21T20:59:00.499Z - INFO: Fichier supprimé avec succès: /home/mgbi/Documents/all_backup/focicom_backups/FOCICOM_DATABASE_2024-09-14_18_00_35.sql
+2024-09-21T20:59:00.499Z - INFO: Fichier supprimé car trop ancien: /home/mgbi/Documents/all_backup/focicom_backups/FOCICOM_DATABASE_2024-09-14_18_00_35.sql
+2024-09-21T20:59:00.499Z - INFO: Fichier supprimé car trop ancien: /home/mgbi/Documents/all_backup/focicom_backups/FOCICOM_DATABASE_2024-09-13_18_00_33.sql
+2024-09-21T20:59:00.499Z - INFO: Fichier supprimé avec succès: /home/mgbi/Documents/all_backup/focicom_backups/FOCICOM_DATABASE_2024-09-13_18_00_33.sql
+2024-09-22T15:29:00.103Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups
+2024-09-22T15:29:00.103Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/fracomex_backups
+2024-09-22T15:29:00.104Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/bbmay_backups
+2024-09-22T15:29:00.105Z - INFO: Déplacement du fichier le plus récent: BBMAY_DATABASE_2024-09-22_18_10_52.sql de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups vers /home/mgbi/Documents/all_backup/bbmay_backups
+2024-09-22T15:29:00.104Z - INFO: Déplacement du fichier le plus récent: FRACOMEX_DATABASE_2024-09-22_18_10_39.sql de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups vers /home/mgbi/Documents/all_backup/fracomex_backups
+2024-09-22T15:29:00.105Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/focicom/master/focicom/backups
+2024-09-22T15:29:00.105Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/focicom_backups
+2024-09-22T15:29:00.106Z - INFO: Déplacement du fichier le plus récent: FOCICOM_DATABASE_2024-09-22_18_00_48.sql de /home/mgbi/elixir/focicom/master/focicom/backups vers /home/mgbi/Documents/all_backup/focicom_backups
+2024-09-22T15:29:00.104Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups
+2024-09-22T15:29:00.106Z - INFO: Déplacement réussi de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups/FRACOMEX_DATABASE_2024-09-22_18_10_39.sql vers /home/mgbi/Documents/all_backup/fracomex_backups/FRACOMEX_DATABASE_2024-09-22_18_10_39.sql
+2024-09-22T15:29:00.106Z - INFO: Le fichier FRACOMEX_DATABASE_2024-09-22_18_10_39.sql a été déplacé avec succès de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups à /home/mgbi/Documents/all_backup/fracomex_backups.
+2024-09-22T15:29:00.106Z - INFO: Déplacement réussi de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups/BBMAY_DATABASE_2024-09-22_18_10_52.sql vers /home/mgbi/Documents/all_backup/bbmay_backups/BBMAY_DATABASE_2024-09-22_18_10_52.sql
+2024-09-22T15:29:00.106Z - INFO: Déplacement réussi de /home/mgbi/elixir/focicom/master/focicom/backups/FOCICOM_DATABASE_2024-09-22_18_00_48.sql vers /home/mgbi/Documents/all_backup/focicom_backups/FOCICOM_DATABASE_2024-09-22_18_00_48.sql
+2024-09-22T15:29:00.106Z - INFO: Le fichier FOCICOM_DATABASE_2024-09-22_18_00_48.sql a été déplacé avec succès de /home/mgbi/elixir/focicom/master/focicom/backups à /home/mgbi/Documents/all_backup/focicom_backups.
+2024-09-22T15:29:00.106Z - INFO: Le fichier BBMAY_DATABASE_2024-09-22_18_10_52.sql a été déplacé avec succès de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups à /home/mgbi/Documents/all_backup/bbmay_backups.
+2024-09-22T20:59:00.219Z - INFO: Taille actuelle du répertoire /home/mgbi/Documents/all_backup/fracomex_backups: 1612898 octets
+2024-09-22T20:59:00.221Z - INFO: Taille actuelle du répertoire /home/mgbi/Documents/all_backup/bbmay_backups: 140055559 octets
+2024-09-22T20:59:00.222Z - INFO: Taille actuelle du répertoire /home/mgbi/Documents/all_backup/focicom_backups: 1716361 octets
+2024-09-22T20:59:00.222Z - INFO: Fichier supprimé avec succès: /home/mgbi/Documents/all_backup/fracomex_backups/FRACOMEX_DATABASE_2024-09-15_18_10_27.sql
+2024-09-22T20:59:00.222Z - INFO: Fichier supprimé car trop ancien: /home/mgbi/Documents/all_backup/fracomex_backups/FRACOMEX_DATABASE_2024-09-15_18_10_27.sql
+2024-09-22T20:59:00.222Z - INFO: Fichier supprimé avec succès: /home/mgbi/Documents/all_backup/bbmay_backups/BBMAY_DATABASE_2024-09-15_18_10_39.sql
+2024-09-22T20:59:00.222Z - INFO: Fichier supprimé avec succès: /home/mgbi/Documents/all_backup/focicom_backups/FOCICOM_DATABASE_2024-09-15_18_00_36.sql
+2024-09-22T20:59:00.222Z - INFO: Fichier supprimé car trop ancien: /home/mgbi/Documents/all_backup/bbmay_backups/BBMAY_DATABASE_2024-09-15_18_10_39.sql
+2024-09-22T20:59:00.222Z - INFO: Fichier supprimé car trop ancien: /home/mgbi/Documents/all_backup/focicom_backups/FOCICOM_DATABASE_2024-09-15_18_00_36.sql
+2024-09-23T15:29:00.280Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups
+2024-09-23T15:29:00.280Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/fracomex_backups
+2024-09-23T15:29:00.281Z - INFO: Déplacement du fichier le plus récent: FRACOMEX_DATABASE_2024-09-23_18_10_40.sql de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups vers /home/mgbi/Documents/all_backup/fracomex_backups
+2024-09-23T15:29:00.281Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups
+2024-09-23T15:29:00.281Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/bbmay_backups
+2024-09-23T15:29:00.281Z - INFO: Déplacement du fichier le plus récent: BBMAY_DATABASE_2024-09-23_18_10_54.sql de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups vers /home/mgbi/Documents/all_backup/bbmay_backups
+2024-09-23T15:29:00.281Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/focicom/master/focicom/backups
+2024-09-23T15:29:00.281Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/focicom_backups
+2024-09-23T15:29:00.282Z - INFO: Déplacement du fichier le plus récent: FOCICOM_DATABASE_2024-09-23_18_00_50.sql de /home/mgbi/elixir/focicom/master/focicom/backups vers /home/mgbi/Documents/all_backup/focicom_backups
+2024-09-23T15:29:00.283Z - INFO: Déplacement réussi de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups/FRACOMEX_DATABASE_2024-09-23_18_10_40.sql vers /home/mgbi/Documents/all_backup/fracomex_backups/FRACOMEX_DATABASE_2024-09-23_18_10_40.sql
+2024-09-23T15:29:00.283Z - INFO: Le fichier FRACOMEX_DATABASE_2024-09-23_18_10_40.sql a été déplacé avec succès de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups à /home/mgbi/Documents/all_backup/fracomex_backups.
+2024-09-23T15:29:00.283Z - INFO: Déplacement réussi de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups/BBMAY_DATABASE_2024-09-23_18_10_54.sql vers /home/mgbi/Documents/all_backup/bbmay_backups/BBMAY_DATABASE_2024-09-23_18_10_54.sql
+2024-09-23T15:29:00.283Z - INFO: Le fichier BBMAY_DATABASE_2024-09-23_18_10_54.sql a été déplacé avec succès de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups à /home/mgbi/Documents/all_backup/bbmay_backups.
+2024-09-23T15:29:00.283Z - INFO: Déplacement réussi de /home/mgbi/elixir/focicom/master/focicom/backups/FOCICOM_DATABASE_2024-09-23_18_00_50.sql vers /home/mgbi/Documents/all_backup/focicom_backups/FOCICOM_DATABASE_2024-09-23_18_00_50.sql
+2024-09-23T15:29:00.283Z - INFO: Le fichier FOCICOM_DATABASE_2024-09-23_18_00_50.sql a été déplacé avec succès de /home/mgbi/elixir/focicom/master/focicom/backups à /home/mgbi/Documents/all_backup/focicom_backups.
+2024-09-24T15:29:00.406Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups
+2024-09-24T15:29:00.407Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/fracomex_backups
+2024-09-24T15:29:00.407Z - INFO: Déplacement du fichier le plus récent: FRACOMEX_DATABASE_2024-09-24_18_10_42.sql de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups vers /home/mgbi/Documents/all_backup/fracomex_backups
+2024-09-24T15:29:00.407Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups
+2024-09-24T15:29:00.407Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/bbmay_backups
+2024-09-24T15:29:00.407Z - INFO: Déplacement du fichier le plus récent: BBMAY_DATABASE_2024-09-24_18_10_56.sql de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups vers /home/mgbi/Documents/all_backup/bbmay_backups
+2024-09-24T15:29:00.408Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/focicom/master/focicom/backups
+2024-09-24T15:29:00.408Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/focicom_backups
+2024-09-24T15:29:00.408Z - INFO: Déplacement du fichier le plus récent: FOCICOM_DATABASE_2024-09-24_18_00_51.sql de /home/mgbi/elixir/focicom/master/focicom/backups vers /home/mgbi/Documents/all_backup/focicom_backups
+2024-09-24T15:29:00.409Z - INFO: Déplacement réussi de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups/FRACOMEX_DATABASE_2024-09-24_18_10_42.sql vers /home/mgbi/Documents/all_backup/fracomex_backups/FRACOMEX_DATABASE_2024-09-24_18_10_42.sql
+2024-09-24T15:29:00.409Z - INFO: Le fichier FRACOMEX_DATABASE_2024-09-24_18_10_42.sql a été déplacé avec succès de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups à /home/mgbi/Documents/all_backup/fracomex_backups.
+2024-09-24T15:29:00.409Z - INFO: Déplacement réussi de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups/BBMAY_DATABASE_2024-09-24_18_10_56.sql vers /home/mgbi/Documents/all_backup/bbmay_backups/BBMAY_DATABASE_2024-09-24_18_10_56.sql
+2024-09-24T15:29:00.409Z - INFO: Le fichier BBMAY_DATABASE_2024-09-24_18_10_56.sql a été déplacé avec succès de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups à /home/mgbi/Documents/all_backup/bbmay_backups.
+2024-09-24T15:29:00.409Z - INFO: Déplacement réussi de /home/mgbi/elixir/focicom/master/focicom/backups/FOCICOM_DATABASE_2024-09-24_18_00_51.sql vers /home/mgbi/Documents/all_backup/focicom_backups/FOCICOM_DATABASE_2024-09-24_18_00_51.sql
+2024-09-24T15:29:00.409Z - INFO: Le fichier FOCICOM_DATABASE_2024-09-24_18_00_51.sql a été déplacé avec succès de /home/mgbi/elixir/focicom/master/focicom/backups à /home/mgbi/Documents/all_backup/focicom_backups.
+2024-09-25T15:29:00.605Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups
+2024-09-25T15:29:00.605Z - INFO: Déplacement du fichier le plus récent: FRACOMEX_DATABASE_2024-09-25_18_10_44.sql de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups vers /home/mgbi/Documents/all_backup/fracomex_backups
+2024-09-25T15:29:00.605Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/fracomex_backups
+2024-09-25T15:29:00.605Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups
+2024-09-25T15:29:00.605Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/bbmay_backups
+2024-09-25T15:29:00.605Z - INFO: Déplacement du fichier le plus récent: BBMAY_DATABASE_2024-09-24_18_29_56.sql de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups vers /home/mgbi/Documents/all_backup/bbmay_backups
+2024-09-25T15:29:00.605Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/focicom/master/focicom/backups
+2024-09-25T15:29:00.606Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/focicom_backups
+2024-09-25T15:29:00.606Z - INFO: Déplacement du fichier le plus récent: FOCICOM_DATABASE_2024-09-25_18_00_53.sql de /home/mgbi/elixir/focicom/master/focicom/backups vers /home/mgbi/Documents/all_backup/focicom_backups
+2024-09-25T15:29:00.606Z - INFO: Déplacement réussi de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups/FRACOMEX_DATABASE_2024-09-25_18_10_44.sql vers /home/mgbi/Documents/all_backup/fracomex_backups/FRACOMEX_DATABASE_2024-09-25_18_10_44.sql
+2024-09-25T15:29:00.606Z - INFO: Le fichier FRACOMEX_DATABASE_2024-09-25_18_10_44.sql a été déplacé avec succès de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups à /home/mgbi/Documents/all_backup/fracomex_backups.
+2024-09-25T15:29:00.606Z - INFO: Déplacement réussi de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups/BBMAY_DATABASE_2024-09-24_18_29_56.sql vers /home/mgbi/Documents/all_backup/bbmay_backups/BBMAY_DATABASE_2024-09-24_18_29_56.sql
+2024-09-25T15:29:00.606Z - INFO: Le fichier BBMAY_DATABASE_2024-09-24_18_29_56.sql a été déplacé avec succès de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups à /home/mgbi/Documents/all_backup/bbmay_backups.
+2024-09-25T15:29:00.606Z - INFO: Déplacement réussi de /home/mgbi/elixir/focicom/master/focicom/backups/FOCICOM_DATABASE_2024-09-25_18_00_53.sql vers /home/mgbi/Documents/all_backup/focicom_backups/FOCICOM_DATABASE_2024-09-25_18_00_53.sql
+2024-09-25T15:29:00.606Z - INFO: Le fichier FOCICOM_DATABASE_2024-09-25_18_00_53.sql a été déplacé avec succès de /home/mgbi/elixir/focicom/master/focicom/backups à /home/mgbi/Documents/all_backup/focicom_backups.
+2024-09-26T15:29:00.090Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups
+2024-09-26T15:29:00.090Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/fracomex_backups
+2024-09-26T15:29:00.090Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups
+2024-09-26T15:29:00.090Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/bbmay_backups
+2024-09-26T15:29:00.090Z - INFO: Déplacement du fichier le plus récent: BBMAY_DATABASE_2024-09-23_18_29_55.sql de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups vers /home/mgbi/Documents/all_backup/bbmay_backups
+2024-09-26T15:29:00.090Z - INFO: Déplacement du fichier le plus récent: FRACOMEX_DATABASE_2024-09-26_18_10_45.sql de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups vers /home/mgbi/Documents/all_backup/fracomex_backups
+2024-09-26T15:29:00.091Z - INFO: Déplacement du fichier le plus récent: FOCICOM_DATABASE_2024-09-26_18_00_55.sql de /home/mgbi/elixir/focicom/master/focicom/backups vers /home/mgbi/Documents/all_backup/focicom_backups
+2024-09-26T15:29:00.091Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/focicom/master/focicom/backups
+2024-09-26T15:29:00.091Z - INFO: Le fichier FRACOMEX_DATABASE_2024-09-26_18_10_45.sql a été déplacé avec succès de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups à /home/mgbi/Documents/all_backup/fracomex_backups.
+2024-09-26T15:29:00.091Z - INFO: Déplacement réussi de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups/BBMAY_DATABASE_2024-09-23_18_29_55.sql vers /home/mgbi/Documents/all_backup/bbmay_backups/BBMAY_DATABASE_2024-09-23_18_29_55.sql
+2024-09-26T15:29:00.091Z - INFO: Le fichier BBMAY_DATABASE_2024-09-23_18_29_55.sql a été déplacé avec succès de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups à /home/mgbi/Documents/all_backup/bbmay_backups.
+2024-09-26T15:29:00.091Z - INFO: Déplacement réussi de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups/FRACOMEX_DATABASE_2024-09-26_18_10_45.sql vers /home/mgbi/Documents/all_backup/fracomex_backups/FRACOMEX_DATABASE_2024-09-26_18_10_45.sql
+2024-09-26T15:29:00.091Z - INFO: Le fichier FOCICOM_DATABASE_2024-09-26_18_00_55.sql a été déplacé avec succès de /home/mgbi/elixir/focicom/master/focicom/backups à /home/mgbi/Documents/all_backup/focicom_backups.
+2024-09-26T15:29:00.091Z - INFO: Déplacement réussi de /home/mgbi/elixir/focicom/master/focicom/backups/FOCICOM_DATABASE_2024-09-26_18_00_55.sql vers /home/mgbi/Documents/all_backup/focicom_backups/FOCICOM_DATABASE_2024-09-26_18_00_55.sql
+2024-09-26T15:29:00.091Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/focicom_backups
+2024-09-27T15:29:00.389Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups
+2024-09-27T15:29:00.390Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups
+2024-09-27T15:29:00.390Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/bbmay_backups
+2024-09-27T15:29:00.390Z - INFO: Déplacement du fichier le plus récent: BBMAY_DATABASE_2024-09-22_18_29_53.sql de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups vers /home/mgbi/Documents/all_backup/bbmay_backups
+2024-09-27T15:29:00.389Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/fracomex_backups
+2024-09-27T15:29:00.390Z - INFO: Déplacement du fichier le plus récent: FRACOMEX_DATABASE_2024-09-27_18_10_47.sql de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups vers /home/mgbi/Documents/all_backup/fracomex_backups
+2024-09-27T15:29:00.390Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/focicom/master/focicom/backups
+2024-09-27T15:29:00.390Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/focicom_backups
+2024-09-27T15:29:00.391Z - INFO: Déplacement du fichier le plus récent: FOCICOM_DATABASE_2024-09-27_18_00_56.sql de /home/mgbi/elixir/focicom/master/focicom/backups vers /home/mgbi/Documents/all_backup/focicom_backups
+2024-09-27T15:29:00.391Z - INFO: Le fichier FRACOMEX_DATABASE_2024-09-27_18_10_47.sql a été déplacé avec succès de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups à /home/mgbi/Documents/all_backup/fracomex_backups.
+2024-09-27T15:29:00.391Z - INFO: Déplacement réussi de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups/BBMAY_DATABASE_2024-09-22_18_29_53.sql vers /home/mgbi/Documents/all_backup/bbmay_backups/BBMAY_DATABASE_2024-09-22_18_29_53.sql
+2024-09-27T15:29:00.391Z - INFO: Le fichier BBMAY_DATABASE_2024-09-22_18_29_53.sql a été déplacé avec succès de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups à /home/mgbi/Documents/all_backup/bbmay_backups.
+2024-09-27T15:29:00.391Z - INFO: Déplacement réussi de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups/FRACOMEX_DATABASE_2024-09-27_18_10_47.sql vers /home/mgbi/Documents/all_backup/fracomex_backups/FRACOMEX_DATABASE_2024-09-27_18_10_47.sql
+2024-09-27T15:29:00.392Z - INFO: Déplacement réussi de /home/mgbi/elixir/focicom/master/focicom/backups/FOCICOM_DATABASE_2024-09-27_18_00_56.sql vers /home/mgbi/Documents/all_backup/focicom_backups/FOCICOM_DATABASE_2024-09-27_18_00_56.sql
+2024-09-27T15:29:00.392Z - INFO: Le fichier FOCICOM_DATABASE_2024-09-27_18_00_56.sql a été déplacé avec succès de /home/mgbi/elixir/focicom/master/focicom/backups à /home/mgbi/Documents/all_backup/focicom_backups.
+2024-09-28T15:29:00.220Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups
+2024-09-28T15:29:00.220Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/fracomex_backups
+2024-09-28T15:29:00.220Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/bbmay_backups
+2024-09-28T15:29:00.220Z - INFO: Déplacement du fichier le plus récent: BBMAY_DATABASE_2024-09-21_18_29_51.sql de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups vers /home/mgbi/Documents/all_backup/bbmay_backups
+2024-09-28T15:29:00.220Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/focicom/master/focicom/backups
+2024-09-28T15:29:00.220Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/focicom_backups
+2024-09-28T15:29:00.221Z - INFO: Déplacement du fichier le plus récent: FOCICOM_DATABASE_2024-09-28_18_00_58.sql de /home/mgbi/elixir/focicom/master/focicom/backups vers /home/mgbi/Documents/all_backup/focicom_backups
+2024-09-28T15:29:00.220Z - INFO: Déplacement du fichier le plus récent: FRACOMEX_DATABASE_2024-09-28_18_10_49.sql de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups vers /home/mgbi/Documents/all_backup/fracomex_backups
+2024-09-28T15:29:00.221Z - INFO: Déplacement réussi de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups/FRACOMEX_DATABASE_2024-09-28_18_10_49.sql vers /home/mgbi/Documents/all_backup/fracomex_backups/FRACOMEX_DATABASE_2024-09-28_18_10_49.sql
+2024-09-28T15:29:00.220Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups
+2024-09-28T15:29:00.221Z - INFO: Le fichier FRACOMEX_DATABASE_2024-09-28_18_10_49.sql a été déplacé avec succès de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups à /home/mgbi/Documents/all_backup/fracomex_backups.
+2024-09-28T15:29:00.221Z - INFO: Déplacement réussi de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups/BBMAY_DATABASE_2024-09-21_18_29_51.sql vers /home/mgbi/Documents/all_backup/bbmay_backups/BBMAY_DATABASE_2024-09-21_18_29_51.sql
+2024-09-28T15:29:00.221Z - INFO: Déplacement réussi de /home/mgbi/elixir/focicom/master/focicom/backups/FOCICOM_DATABASE_2024-09-28_18_00_58.sql vers /home/mgbi/Documents/all_backup/focicom_backups/FOCICOM_DATABASE_2024-09-28_18_00_58.sql
+2024-09-28T15:29:00.221Z - INFO: Le fichier FOCICOM_DATABASE_2024-09-28_18_00_58.sql a été déplacé avec succès de /home/mgbi/elixir/focicom/master/focicom/backups à /home/mgbi/Documents/all_backup/focicom_backups.
+2024-09-28T15:29:00.221Z - INFO: Le fichier BBMAY_DATABASE_2024-09-21_18_29_51.sql a été déplacé avec succès de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups à /home/mgbi/Documents/all_backup/bbmay_backups.
+2024-09-29T15:29:00.964Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups
+2024-09-29T15:29:00.965Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/bbmay_backups
+2024-09-29T15:29:00.964Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/fracomex_backups
+2024-09-29T15:29:00.965Z - INFO: Déplacement du fichier le plus récent: BBMAY_DATABASE_2024-09-20_18_29_49.sql de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups vers /home/mgbi/Documents/all_backup/bbmay_backups
+2024-09-29T15:29:00.965Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/focicom/master/focicom/backups
+2024-09-29T15:29:00.965Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/focicom_backups
+2024-09-29T15:29:00.966Z - INFO: Déplacement du fichier le plus récent: FOCICOM_DATABASE_2024-09-29_18_00_00.sql de /home/mgbi/elixir/focicom/master/focicom/backups vers /home/mgbi/Documents/all_backup/focicom_backups
+2024-09-29T15:29:00.965Z - INFO: Déplacement du fichier le plus récent: FRACOMEX_DATABASE_2024-09-29_18_10_50.sql de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups vers /home/mgbi/Documents/all_backup/fracomex_backups
+2024-09-29T15:29:00.966Z - INFO: Déplacement réussi de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups/FRACOMEX_DATABASE_2024-09-29_18_10_50.sql vers /home/mgbi/Documents/all_backup/fracomex_backups/FRACOMEX_DATABASE_2024-09-29_18_10_50.sql
+2024-09-29T15:29:00.966Z - INFO: Le fichier FRACOMEX_DATABASE_2024-09-29_18_10_50.sql a été déplacé avec succès de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups à /home/mgbi/Documents/all_backup/fracomex_backups.
+2024-09-29T15:29:00.966Z - INFO: Déplacement réussi de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups/BBMAY_DATABASE_2024-09-20_18_29_49.sql vers /home/mgbi/Documents/all_backup/bbmay_backups/BBMAY_DATABASE_2024-09-20_18_29_49.sql
+2024-09-29T15:29:00.965Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups
+2024-09-29T15:29:00.966Z - INFO: Le fichier BBMAY_DATABASE_2024-09-20_18_29_49.sql a été déplacé avec succès de /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups à /home/mgbi/Documents/all_backup/bbmay_backups.
+2024-09-29T15:29:00.966Z - INFO: Déplacement réussi de /home/mgbi/elixir/focicom/master/focicom/backups/FOCICOM_DATABASE_2024-09-29_18_00_00.sql vers /home/mgbi/Documents/all_backup/focicom_backups/FOCICOM_DATABASE_2024-09-29_18_00_00.sql
+2024-09-29T15:29:00.966Z - INFO: Le fichier FOCICOM_DATABASE_2024-09-29_18_00_00.sql a été déplacé avec succès de /home/mgbi/elixir/focicom/master/focicom/backups à /home/mgbi/Documents/all_backup/focicom_backups.
+2024-09-30T15:29:00.671Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups
+2024-09-30T15:29:00.671Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/fracomex_backups
+2024-09-30T15:29:00.671Z - INFO: Déplacement du fichier le plus récent: FRACOMEX_DATABASE_2024-09-30_18_10_52.sql de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups vers /home/mgbi/Documents/all_backup/fracomex_backups
+2024-09-30T15:29:00.671Z - INFO: Le répertoire source est vide: /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups. Passer au prochain répertoire.
+2024-09-30T15:29:00.672Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/focicom/master/focicom/backups
+2024-09-30T15:29:00.672Z - INFO: Déplacement du fichier le plus récent: FOCICOM_DATABASE_2024-09-30_18_00_01.sql de /home/mgbi/elixir/focicom/master/focicom/backups vers /home/mgbi/Documents/all_backup/focicom_backups
+2024-09-30T15:29:00.672Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/focicom_backups
+2024-09-30T15:29:00.674Z - INFO: Déplacement réussi de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups/FRACOMEX_DATABASE_2024-09-30_18_10_52.sql vers /home/mgbi/Documents/all_backup/fracomex_backups/FRACOMEX_DATABASE_2024-09-30_18_10_52.sql
+2024-09-30T15:29:00.674Z - INFO: Le fichier FRACOMEX_DATABASE_2024-09-30_18_10_52.sql a été déplacé avec succès de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups à /home/mgbi/Documents/all_backup/fracomex_backups.
+2024-09-30T15:29:00.675Z - INFO: Déplacement réussi de /home/mgbi/elixir/focicom/master/focicom/backups/FOCICOM_DATABASE_2024-09-30_18_00_01.sql vers /home/mgbi/Documents/all_backup/focicom_backups/FOCICOM_DATABASE_2024-09-30_18_00_01.sql
+2024-09-30T15:29:00.675Z - INFO: Le fichier FOCICOM_DATABASE_2024-09-30_18_00_01.sql a été déplacé avec succès de /home/mgbi/elixir/focicom/master/focicom/backups à /home/mgbi/Documents/all_backup/focicom_backups.
+2024-10-01T15:29:00.034Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups
+2024-10-01T15:29:00.034Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/fracomex_backups
+2024-10-01T15:29:00.035Z - INFO: Le répertoire source est vide: /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups. Passer au prochain répertoire.
+2024-10-01T15:29:00.035Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/focicom/master/focicom/backups
+2024-10-01T15:29:00.035Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/focicom_backups
+2024-10-01T15:29:00.035Z - INFO: Déplacement du fichier le plus récent: FOCICOM_DATABASE_2024-10-01_18_00_03.sql de /home/mgbi/elixir/focicom/master/focicom/backups vers /home/mgbi/Documents/all_backup/focicom_backups
+2024-10-01T15:29:00.035Z - INFO: Déplacement du fichier le plus récent: FRACOMEX_DATABASE_2024-10-01_18_10_54.sql de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups vers /home/mgbi/Documents/all_backup/fracomex_backups
+2024-10-01T15:29:00.035Z - INFO: Le fichier FRACOMEX_DATABASE_2024-10-01_18_10_54.sql a été déplacé avec succès de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups à /home/mgbi/Documents/all_backup/fracomex_backups.
+2024-10-01T15:29:00.035Z - INFO: Déplacement réussi de /home/mgbi/elixir/focicom/master/focicom/backups/FOCICOM_DATABASE_2024-10-01_18_00_03.sql vers /home/mgbi/Documents/all_backup/focicom_backups/FOCICOM_DATABASE_2024-10-01_18_00_03.sql
+2024-10-01T15:29:00.035Z - INFO: Le fichier FOCICOM_DATABASE_2024-10-01_18_00_03.sql a été déplacé avec succès de /home/mgbi/elixir/focicom/master/focicom/backups à /home/mgbi/Documents/all_backup/focicom_backups.
+2024-10-01T15:29:00.035Z - INFO: Déplacement réussi de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups/FRACOMEX_DATABASE_2024-10-01_18_10_54.sql vers /home/mgbi/Documents/all_backup/fracomex_backups/FRACOMEX_DATABASE_2024-10-01_18_10_54.sql
+2024-10-02T15:29:00.400Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups
+2024-10-02T15:29:00.400Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/fracomex_backups
+2024-10-02T15:29:00.401Z - INFO: Déplacement du fichier le plus récent: FRACOMEX_DATABASE_2024-10-02_18_10_55.sql de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups vers /home/mgbi/Documents/all_backup/fracomex_backups
+2024-10-02T15:29:00.401Z - INFO: Le répertoire source est vide: /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups. Passer au prochain répertoire.
+2024-10-02T15:29:00.401Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/focicom/master/focicom/backups
+2024-10-02T15:29:00.401Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/focicom_backups
+2024-10-02T15:29:00.401Z - INFO: Déplacement du fichier le plus récent: FOCICOM_DATABASE_2024-10-02_18_00_05.sql de /home/mgbi/elixir/focicom/master/focicom/backups vers /home/mgbi/Documents/all_backup/focicom_backups
+2024-10-02T15:29:00.402Z - INFO: Le fichier FRACOMEX_DATABASE_2024-10-02_18_10_55.sql a été déplacé avec succès de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups à /home/mgbi/Documents/all_backup/fracomex_backups.
+2024-10-02T15:29:00.402Z - INFO: Déplacement réussi de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups/FRACOMEX_DATABASE_2024-10-02_18_10_55.sql vers /home/mgbi/Documents/all_backup/fracomex_backups/FRACOMEX_DATABASE_2024-10-02_18_10_55.sql
+2024-10-02T15:29:00.402Z - INFO: Déplacement réussi de /home/mgbi/elixir/focicom/master/focicom/backups/FOCICOM_DATABASE_2024-10-02_18_00_05.sql vers /home/mgbi/Documents/all_backup/focicom_backups/FOCICOM_DATABASE_2024-10-02_18_00_05.sql
+2024-10-02T15:29:00.402Z - INFO: Le fichier FOCICOM_DATABASE_2024-10-02_18_00_05.sql a été déplacé avec succès de /home/mgbi/elixir/focicom/master/focicom/backups à /home/mgbi/Documents/all_backup/focicom_backups.
+2024-10-03T15:29:00.345Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups
+2024-10-03T15:29:00.345Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/fracomex_backups
+2024-10-03T15:29:00.345Z - INFO: Déplacement du fichier le plus récent: FRACOMEX_DATABASE_2024-10-03_18_10_57.sql de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups vers /home/mgbi/Documents/all_backup/fracomex_backups
+2024-10-03T15:29:00.345Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/focicom/master/focicom/backups
+2024-10-03T15:29:00.345Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/focicom_backups
+2024-10-03T15:29:00.345Z - INFO: Le répertoire source est vide: /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups. Passer au prochain répertoire.
+2024-10-03T15:29:00.345Z - INFO: Déplacement du fichier le plus récent: FOCICOM_DATABASE_2024-10-03_18_00_06.sql de /home/mgbi/elixir/focicom/master/focicom/backups vers /home/mgbi/Documents/all_backup/focicom_backups
+2024-10-03T15:29:00.345Z - INFO: Déplacement réussi de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups/FRACOMEX_DATABASE_2024-10-03_18_10_57.sql vers /home/mgbi/Documents/all_backup/fracomex_backups/FRACOMEX_DATABASE_2024-10-03_18_10_57.sql
+2024-10-03T15:29:00.345Z - INFO: Le fichier FRACOMEX_DATABASE_2024-10-03_18_10_57.sql a été déplacé avec succès de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups à /home/mgbi/Documents/all_backup/fracomex_backups.
+2024-10-03T15:29:00.346Z - INFO: Déplacement réussi de /home/mgbi/elixir/focicom/master/focicom/backups/FOCICOM_DATABASE_2024-10-03_18_00_06.sql vers /home/mgbi/Documents/all_backup/focicom_backups/FOCICOM_DATABASE_2024-10-03_18_00_06.sql
+2024-10-03T15:29:00.346Z - INFO: Le fichier FOCICOM_DATABASE_2024-10-03_18_00_06.sql a été déplacé avec succès de /home/mgbi/elixir/focicom/master/focicom/backups à /home/mgbi/Documents/all_backup/focicom_backups.
+2024-10-04T15:29:00.405Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups
+2024-10-04T15:29:00.405Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/fracomex_backups
+2024-10-04T15:29:00.405Z - INFO: Déplacement du fichier le plus récent: FRACOMEX_DATABASE_2024-10-04_18_10_59.sql de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups vers /home/mgbi/Documents/all_backup/fracomex_backups
+2024-10-04T15:29:00.405Z - INFO: Le répertoire source est vide: /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups. Passer au prochain répertoire.
+2024-10-04T15:29:00.405Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/focicom/master/focicom/backups
+2024-10-04T15:29:00.405Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/focicom_backups
+2024-10-04T15:29:00.405Z - INFO: Déplacement du fichier le plus récent: FOCICOM_DATABASE_2024-10-04_18_00_08.sql de /home/mgbi/elixir/focicom/master/focicom/backups vers /home/mgbi/Documents/all_backup/focicom_backups
+2024-10-04T15:29:00.406Z - INFO: Le fichier FRACOMEX_DATABASE_2024-10-04_18_10_59.sql a été déplacé avec succès de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups à /home/mgbi/Documents/all_backup/fracomex_backups.
+2024-10-04T15:29:00.406Z - INFO: Déplacement réussi de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups/FRACOMEX_DATABASE_2024-10-04_18_10_59.sql vers /home/mgbi/Documents/all_backup/fracomex_backups/FRACOMEX_DATABASE_2024-10-04_18_10_59.sql
+2024-10-04T15:29:00.406Z - INFO: Déplacement réussi de /home/mgbi/elixir/focicom/master/focicom/backups/FOCICOM_DATABASE_2024-10-04_18_00_08.sql vers /home/mgbi/Documents/all_backup/focicom_backups/FOCICOM_DATABASE_2024-10-04_18_00_08.sql
+2024-10-04T15:29:00.406Z - INFO: Le fichier FOCICOM_DATABASE_2024-10-04_18_00_08.sql a été déplacé avec succès de /home/mgbi/elixir/focicom/master/focicom/backups à /home/mgbi/Documents/all_backup/focicom_backups.
+2024-10-05T15:29:00.432Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups
+2024-10-05T15:29:00.432Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/fracomex_backups
+2024-10-05T15:29:00.433Z - INFO: Le répertoire source est vide: /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups. Passer au prochain répertoire.
+2024-10-05T15:29:00.433Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/focicom/master/focicom/backups
+2024-10-05T15:29:00.432Z - INFO: Déplacement du fichier le plus récent: FRACOMEX_DATABASE_2024-10-05_18_10_00.sql de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups vers /home/mgbi/Documents/all_backup/fracomex_backups
+2024-10-05T15:29:00.433Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/focicom_backups
+2024-10-05T15:29:00.433Z - INFO: Déplacement du fichier le plus récent: FOCICOM_DATABASE_2024-10-05_18_00_10.sql de /home/mgbi/elixir/focicom/master/focicom/backups vers /home/mgbi/Documents/all_backup/focicom_backups
+2024-10-05T15:29:00.434Z - INFO: Le fichier FRACOMEX_DATABASE_2024-10-05_18_10_00.sql a été déplacé avec succès de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups à /home/mgbi/Documents/all_backup/fracomex_backups.
+2024-10-05T15:29:00.434Z - INFO: Le fichier FOCICOM_DATABASE_2024-10-05_18_00_10.sql a été déplacé avec succès de /home/mgbi/elixir/focicom/master/focicom/backups à /home/mgbi/Documents/all_backup/focicom_backups.
+2024-10-05T15:29:00.434Z - INFO: Déplacement réussi de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups/FRACOMEX_DATABASE_2024-10-05_18_10_00.sql vers /home/mgbi/Documents/all_backup/fracomex_backups/FRACOMEX_DATABASE_2024-10-05_18_10_00.sql
+2024-10-05T15:29:00.434Z - INFO: Déplacement réussi de /home/mgbi/elixir/focicom/master/focicom/backups/FOCICOM_DATABASE_2024-10-05_18_00_10.sql vers /home/mgbi/Documents/all_backup/focicom_backups/FOCICOM_DATABASE_2024-10-05_18_00_10.sql
+2024-10-06T15:29:00.370Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups
+2024-10-06T15:29:00.371Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/focicom/master/focicom/backups
+2024-10-06T15:29:00.370Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/fracomex_backups
+2024-10-06T15:29:00.371Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/focicom_backups
+2024-10-06T15:29:00.371Z - INFO: Déplacement du fichier le plus récent: FRACOMEX_DATABASE_2024-10-06_18_10_02.sql de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups vers /home/mgbi/Documents/all_backup/fracomex_backups
+2024-10-06T15:29:00.371Z - INFO: Déplacement du fichier le plus récent: FOCICOM_DATABASE_2024-10-06_18_00_11.sql de /home/mgbi/elixir/focicom/master/focicom/backups vers /home/mgbi/Documents/all_backup/focicom_backups
+2024-10-06T15:29:00.371Z - INFO: Le répertoire source est vide: /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups. Passer au prochain répertoire.
+2024-10-06T15:29:00.372Z - INFO: Le fichier FRACOMEX_DATABASE_2024-10-06_18_10_02.sql a été déplacé avec succès de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups à /home/mgbi/Documents/all_backup/fracomex_backups.
+2024-10-06T15:29:00.372Z - INFO: Déplacement réussi de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups/FRACOMEX_DATABASE_2024-10-06_18_10_02.sql vers /home/mgbi/Documents/all_backup/fracomex_backups/FRACOMEX_DATABASE_2024-10-06_18_10_02.sql
+2024-10-06T15:29:00.372Z - INFO: Déplacement réussi de /home/mgbi/elixir/focicom/master/focicom/backups/FOCICOM_DATABASE_2024-10-06_18_00_11.sql vers /home/mgbi/Documents/all_backup/focicom_backups/FOCICOM_DATABASE_2024-10-06_18_00_11.sql
+2024-10-06T15:29:00.372Z - INFO: Le fichier FOCICOM_DATABASE_2024-10-06_18_00_11.sql a été déplacé avec succès de /home/mgbi/elixir/focicom/master/focicom/backups à /home/mgbi/Documents/all_backup/focicom_backups.
+2024-10-07T15:29:00.373Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups
+2024-10-07T15:29:00.374Z - INFO: Le répertoire source est vide: /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups. Passer au prochain répertoire.
+2024-10-07T15:29:00.374Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/focicom/master/focicom/backups
+2024-10-07T15:29:00.374Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/focicom_backups
+2024-10-07T15:29:00.374Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/fracomex_backups
+2024-10-07T15:29:00.374Z - INFO: Déplacement du fichier le plus récent: FRACOMEX_DATABASE_2024-10-07_18_10_04.sql de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups vers /home/mgbi/Documents/all_backup/fracomex_backups
+2024-10-07T15:29:00.374Z - INFO: Déplacement du fichier le plus récent: FOCICOM_DATABASE_2024-10-07_18_00_13.sql de /home/mgbi/elixir/focicom/master/focicom/backups vers /home/mgbi/Documents/all_backup/focicom_backups
+2024-10-07T15:29:00.375Z - INFO: Le fichier FRACOMEX_DATABASE_2024-10-07_18_10_04.sql a été déplacé avec succès de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups à /home/mgbi/Documents/all_backup/fracomex_backups.
+2024-10-07T15:29:00.375Z - INFO: Déplacement réussi de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups/FRACOMEX_DATABASE_2024-10-07_18_10_04.sql vers /home/mgbi/Documents/all_backup/fracomex_backups/FRACOMEX_DATABASE_2024-10-07_18_10_04.sql
+2024-10-07T15:29:00.376Z - INFO: Déplacement réussi de /home/mgbi/elixir/focicom/master/focicom/backups/FOCICOM_DATABASE_2024-10-07_18_00_13.sql vers /home/mgbi/Documents/all_backup/focicom_backups/FOCICOM_DATABASE_2024-10-07_18_00_13.sql
+2024-10-07T15:29:00.376Z - INFO: Le fichier FOCICOM_DATABASE_2024-10-07_18_00_13.sql a été déplacé avec succès de /home/mgbi/elixir/focicom/master/focicom/backups à /home/mgbi/Documents/all_backup/focicom_backups.
+2024-10-08T15:29:00.373Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups
+2024-10-08T15:29:00.373Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/fracomex_backups
+2024-10-08T15:29:00.373Z - INFO: Déplacement du fichier le plus récent: FRACOMEX_DATABASE_2024-10-08_18_10_06.sql de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups vers /home/mgbi/Documents/all_backup/fracomex_backups
+2024-10-08T15:29:00.373Z - INFO: Le répertoire source est vide: /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups. Passer au prochain répertoire.
+2024-10-08T15:29:00.373Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/focicom/master/focicom/backups
+2024-10-08T15:29:00.373Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/focicom_backups
+2024-10-08T15:29:00.374Z - INFO: Déplacement du fichier le plus récent: FOCICOM_DATABASE_2024-10-08_18_00_15.sql de /home/mgbi/elixir/focicom/master/focicom/backups vers /home/mgbi/Documents/all_backup/focicom_backups
+2024-10-08T15:29:00.374Z - INFO: Déplacement réussi de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups/FRACOMEX_DATABASE_2024-10-08_18_10_06.sql vers /home/mgbi/Documents/all_backup/fracomex_backups/FRACOMEX_DATABASE_2024-10-08_18_10_06.sql
+2024-10-08T15:29:00.374Z - INFO: Le fichier FRACOMEX_DATABASE_2024-10-08_18_10_06.sql a été déplacé avec succès de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups à /home/mgbi/Documents/all_backup/fracomex_backups.
+2024-10-08T15:29:00.374Z - INFO: Déplacement réussi de /home/mgbi/elixir/focicom/master/focicom/backups/FOCICOM_DATABASE_2024-10-08_18_00_15.sql vers /home/mgbi/Documents/all_backup/focicom_backups/FOCICOM_DATABASE_2024-10-08_18_00_15.sql
+2024-10-08T15:29:00.374Z - INFO: Le fichier FOCICOM_DATABASE_2024-10-08_18_00_15.sql a été déplacé avec succès de /home/mgbi/elixir/focicom/master/focicom/backups à /home/mgbi/Documents/all_backup/focicom_backups.
+2024-10-09T15:29:00.922Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups
+2024-10-09T15:29:00.922Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/fracomex_backups
+2024-10-09T15:29:00.923Z - INFO: Déplacement du fichier le plus récent: FRACOMEX_DATABASE_2024-10-09_18_10_07.sql de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups vers /home/mgbi/Documents/all_backup/fracomex_backups
+2024-10-09T15:29:00.923Z - INFO: Le répertoire source est vide: /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups. Passer au prochain répertoire.
+2024-10-09T15:29:00.923Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/focicom/master/focicom/backups
+2024-10-09T15:29:00.923Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/focicom_backups
+2024-10-09T15:29:00.924Z - INFO: Déplacement du fichier le plus récent: FOCICOM_DATABASE_2024-10-09_18_00_17.sql de /home/mgbi/elixir/focicom/master/focicom/backups vers /home/mgbi/Documents/all_backup/focicom_backups
+2024-10-09T15:29:00.924Z - INFO: Déplacement réussi de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups/FRACOMEX_DATABASE_2024-10-09_18_10_07.sql vers /home/mgbi/Documents/all_backup/fracomex_backups/FRACOMEX_DATABASE_2024-10-09_18_10_07.sql
+2024-10-09T15:29:00.924Z - INFO: Le fichier FRACOMEX_DATABASE_2024-10-09_18_10_07.sql a été déplacé avec succès de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups à /home/mgbi/Documents/all_backup/fracomex_backups.
+2024-10-09T15:29:00.924Z - INFO: Déplacement réussi de /home/mgbi/elixir/focicom/master/focicom/backups/FOCICOM_DATABASE_2024-10-09_18_00_17.sql vers /home/mgbi/Documents/all_backup/focicom_backups/FOCICOM_DATABASE_2024-10-09_18_00_17.sql
+2024-10-09T15:29:00.924Z - INFO: Le fichier FOCICOM_DATABASE_2024-10-09_18_00_17.sql a été déplacé avec succès de /home/mgbi/elixir/focicom/master/focicom/backups à /home/mgbi/Documents/all_backup/focicom_backups.
+2024-10-10T15:29:00.952Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups
+2024-10-10T15:29:00.952Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/fracomex_backups
+2024-10-10T15:29:00.952Z - INFO: Déplacement du fichier le plus récent: FRACOMEX_DATABASE_2024-10-10_18_10_09.sql de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups vers /home/mgbi/Documents/all_backup/fracomex_backups
+2024-10-10T15:29:00.952Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/focicom/master/focicom/backups
+2024-10-10T15:29:00.952Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/focicom_backups
+2024-10-10T15:29:00.952Z - INFO: Déplacement du fichier le plus récent: FOCICOM_DATABASE_2024-10-10_18_00_18.sql de /home/mgbi/elixir/focicom/master/focicom/backups vers /home/mgbi/Documents/all_backup/focicom_backups
+2024-10-10T15:29:00.952Z - INFO: Le répertoire source est vide: /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups. Passer au prochain répertoire.
+2024-10-10T15:29:00.952Z - INFO: Déplacement réussi de /home/mgbi/elixir/focicom/master/focicom/backups/FOCICOM_DATABASE_2024-10-10_18_00_18.sql vers /home/mgbi/Documents/all_backup/focicom_backups/FOCICOM_DATABASE_2024-10-10_18_00_18.sql
+2024-10-10T15:29:00.952Z - INFO: Déplacement réussi de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups/FRACOMEX_DATABASE_2024-10-10_18_10_09.sql vers /home/mgbi/Documents/all_backup/fracomex_backups/FRACOMEX_DATABASE_2024-10-10_18_10_09.sql
+2024-10-10T15:29:00.952Z - INFO: Le fichier FRACOMEX_DATABASE_2024-10-10_18_10_09.sql a été déplacé avec succès de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups à /home/mgbi/Documents/all_backup/fracomex_backups.
+2024-10-10T15:29:00.952Z - INFO: Le fichier FOCICOM_DATABASE_2024-10-10_18_00_18.sql a été déplacé avec succès de /home/mgbi/elixir/focicom/master/focicom/backups à /home/mgbi/Documents/all_backup/focicom_backups.
+2024-10-11T15:29:00.908Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups
+2024-10-11T15:29:00.908Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/fracomex_backups
+2024-10-11T15:29:00.908Z - INFO: Déplacement du fichier le plus récent: FRACOMEX_DATABASE_2024-10-11_18_10_11.sql de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups vers /home/mgbi/Documents/all_backup/fracomex_backups
+2024-10-11T15:29:00.908Z - INFO: Le répertoire source est vide: /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups. Passer au prochain répertoire.
+2024-10-11T15:29:00.908Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/focicom_backups
+2024-10-11T15:29:00.908Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/focicom/master/focicom/backups
+2024-10-11T15:29:00.908Z - INFO: Déplacement du fichier le plus récent: FOCICOM_DATABASE_2024-10-11_18_00_20.sql de /home/mgbi/elixir/focicom/master/focicom/backups vers /home/mgbi/Documents/all_backup/focicom_backups
+2024-10-11T15:29:00.909Z - INFO: Déplacement réussi de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups/FRACOMEX_DATABASE_2024-10-11_18_10_11.sql vers /home/mgbi/Documents/all_backup/fracomex_backups/FRACOMEX_DATABASE_2024-10-11_18_10_11.sql
+2024-10-11T15:29:00.909Z - INFO: Le fichier FRACOMEX_DATABASE_2024-10-11_18_10_11.sql a été déplacé avec succès de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups à /home/mgbi/Documents/all_backup/fracomex_backups.
+2024-10-11T15:29:00.909Z - INFO: Déplacement réussi de /home/mgbi/elixir/focicom/master/focicom/backups/FOCICOM_DATABASE_2024-10-11_18_00_20.sql vers /home/mgbi/Documents/all_backup/focicom_backups/FOCICOM_DATABASE_2024-10-11_18_00_20.sql
+2024-10-11T15:29:00.909Z - INFO: Le fichier FOCICOM_DATABASE_2024-10-11_18_00_20.sql a été déplacé avec succès de /home/mgbi/elixir/focicom/master/focicom/backups à /home/mgbi/Documents/all_backup/focicom_backups.
+2024-10-12T15:29:00.691Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups
+2024-10-12T15:29:00.692Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/fracomex_backups
+2024-10-12T15:29:00.693Z - INFO: Le répertoire source est vide: /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups. Passer au prochain répertoire.
+2024-10-12T15:29:00.693Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/focicom/master/focicom/backups
+2024-10-12T15:29:00.693Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/focicom_backups
+2024-10-12T15:29:00.693Z - INFO: Déplacement du fichier le plus récent: FOCICOM_DATABASE_2024-10-12_18_00_22.sql de /home/mgbi/elixir/focicom/master/focicom/backups vers /home/mgbi/Documents/all_backup/focicom_backups
+2024-10-12T15:29:00.692Z - INFO: Déplacement du fichier le plus récent: FRACOMEX_DATABASE_2024-10-12_18_10_12.sql de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups vers /home/mgbi/Documents/all_backup/fracomex_backups
+2024-10-12T15:29:00.693Z - INFO: Le fichier FRACOMEX_DATABASE_2024-10-12_18_10_12.sql a été déplacé avec succès de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups à /home/mgbi/Documents/all_backup/fracomex_backups.
+2024-10-12T15:29:00.693Z - INFO: Déplacement réussi de /home/mgbi/elixir/focicom/master/focicom/backups/FOCICOM_DATABASE_2024-10-12_18_00_22.sql vers /home/mgbi/Documents/all_backup/focicom_backups/FOCICOM_DATABASE_2024-10-12_18_00_22.sql
+2024-10-12T15:29:00.693Z - INFO: Le fichier FOCICOM_DATABASE_2024-10-12_18_00_22.sql a été déplacé avec succès de /home/mgbi/elixir/focicom/master/focicom/backups à /home/mgbi/Documents/all_backup/focicom_backups.
+2024-10-12T15:29:00.693Z - INFO: Déplacement réussi de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups/FRACOMEX_DATABASE_2024-10-12_18_10_12.sql vers /home/mgbi/Documents/all_backup/fracomex_backups/FRACOMEX_DATABASE_2024-10-12_18_10_12.sql
+2024-10-13T15:29:00.974Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups
+2024-10-13T15:29:00.975Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/fracomex_backups
+2024-10-13T15:29:00.976Z - INFO: Le répertoire source est vide: /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups. Passer au prochain répertoire.
+2024-10-13T15:29:00.976Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/focicom/master/focicom/backups
+2024-10-13T15:29:00.976Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/focicom_backups
+2024-10-13T15:29:00.975Z - INFO: Déplacement du fichier le plus récent: FRACOMEX_DATABASE_2024-10-13_18_10_14.sql de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups vers /home/mgbi/Documents/all_backup/fracomex_backups
+2024-10-13T15:29:00.976Z - INFO: Déplacement du fichier le plus récent: FOCICOM_DATABASE_2024-10-13_18_00_23.sql de /home/mgbi/elixir/focicom/master/focicom/backups vers /home/mgbi/Documents/all_backup/focicom_backups
+2024-10-13T15:29:00.976Z - INFO: Le fichier FRACOMEX_DATABASE_2024-10-13_18_10_14.sql a été déplacé avec succès de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups à /home/mgbi/Documents/all_backup/fracomex_backups.
+2024-10-13T15:29:00.976Z - INFO: Déplacement réussi de /home/mgbi/elixir/focicom/master/focicom/backups/FOCICOM_DATABASE_2024-10-13_18_00_23.sql vers /home/mgbi/Documents/all_backup/focicom_backups/FOCICOM_DATABASE_2024-10-13_18_00_23.sql
+2024-10-13T15:29:00.976Z - INFO: Le fichier FOCICOM_DATABASE_2024-10-13_18_00_23.sql a été déplacé avec succès de /home/mgbi/elixir/focicom/master/focicom/backups à /home/mgbi/Documents/all_backup/focicom_backups.
+2024-10-13T15:29:00.976Z - INFO: Déplacement réussi de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups/FRACOMEX_DATABASE_2024-10-13_18_10_14.sql vers /home/mgbi/Documents/all_backup/fracomex_backups/FRACOMEX_DATABASE_2024-10-13_18_10_14.sql
+2024-10-14T15:29:00.780Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups
+2024-10-14T15:29:00.780Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/focicom/master/focicom/backups
+2024-10-14T15:29:00.781Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/focicom_backups
+2024-10-14T15:29:00.780Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/fracomex_backups
+2024-10-14T15:29:00.781Z - INFO: Déplacement du fichier le plus récent: FOCICOM_DATABASE_2024-10-14_18_00_25.sql de /home/mgbi/elixir/focicom/master/focicom/backups vers /home/mgbi/Documents/all_backup/focicom_backups
+2024-10-14T15:29:00.780Z - INFO: Déplacement du fichier le plus récent: FRACOMEX_DATABASE_2024-10-14_18_10_16.sql de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups vers /home/mgbi/Documents/all_backup/fracomex_backups
+2024-10-14T15:29:00.780Z - INFO: Le répertoire source est vide: /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups. Passer au prochain répertoire.
+2024-10-14T15:29:00.781Z - INFO: Déplacement réussi de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups/FRACOMEX_DATABASE_2024-10-14_18_10_16.sql vers /home/mgbi/Documents/all_backup/fracomex_backups/FRACOMEX_DATABASE_2024-10-14_18_10_16.sql
+2024-10-14T15:29:00.781Z - INFO: Le fichier FRACOMEX_DATABASE_2024-10-14_18_10_16.sql a été déplacé avec succès de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups à /home/mgbi/Documents/all_backup/fracomex_backups.
+2024-10-14T15:29:00.781Z - INFO: Déplacement réussi de /home/mgbi/elixir/focicom/master/focicom/backups/FOCICOM_DATABASE_2024-10-14_18_00_25.sql vers /home/mgbi/Documents/all_backup/focicom_backups/FOCICOM_DATABASE_2024-10-14_18_00_25.sql
+2024-10-14T15:29:00.781Z - INFO: Le fichier FOCICOM_DATABASE_2024-10-14_18_00_25.sql a été déplacé avec succès de /home/mgbi/elixir/focicom/master/focicom/backups à /home/mgbi/Documents/all_backup/focicom_backups.
+2024-10-15T15:29:00.228Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups
+2024-10-15T15:29:00.228Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/fracomex_backups
+2024-10-15T15:29:00.229Z - INFO: Le répertoire source est vide: /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups. Passer au prochain répertoire.
+2024-10-15T15:29:00.229Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/focicom/master/focicom/backups
+2024-10-15T15:29:00.229Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/focicom_backups
+2024-10-15T15:29:00.229Z - INFO: Déplacement du fichier le plus récent: FOCICOM_DATABASE_2024-10-15_18_00_27.sql de /home/mgbi/elixir/focicom/master/focicom/backups vers /home/mgbi/Documents/all_backup/focicom_backups
+2024-10-15T15:29:00.228Z - INFO: Déplacement du fichier le plus récent: FRACOMEX_DATABASE_2024-10-15_18_10_17.sql de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups vers /home/mgbi/Documents/all_backup/fracomex_backups
+2024-10-15T15:29:00.229Z - INFO: Le fichier FRACOMEX_DATABASE_2024-10-15_18_10_17.sql a été déplacé avec succès de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups à /home/mgbi/Documents/all_backup/fracomex_backups.
+2024-10-15T15:29:00.229Z - INFO: Déplacement réussi de /home/mgbi/elixir/focicom/master/focicom/backups/FOCICOM_DATABASE_2024-10-15_18_00_27.sql vers /home/mgbi/Documents/all_backup/focicom_backups/FOCICOM_DATABASE_2024-10-15_18_00_27.sql
+2024-10-15T15:29:00.230Z - INFO: Le fichier FOCICOM_DATABASE_2024-10-15_18_00_27.sql a été déplacé avec succès de /home/mgbi/elixir/focicom/master/focicom/backups à /home/mgbi/Documents/all_backup/focicom_backups.
+2024-10-15T15:29:00.229Z - INFO: Déplacement réussi de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups/FRACOMEX_DATABASE_2024-10-15_18_10_17.sql vers /home/mgbi/Documents/all_backup/fracomex_backups/FRACOMEX_DATABASE_2024-10-15_18_10_17.sql
+2024-10-16T15:29:00.195Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups
+2024-10-16T15:29:00.196Z - INFO: Le répertoire source est vide: /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups. Passer au prochain répertoire.
+2024-10-16T15:29:00.196Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/focicom/master/focicom/backups
+2024-10-16T15:29:00.196Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/focicom_backups
+2024-10-16T15:29:00.195Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/fracomex_backups
+2024-10-16T15:29:00.196Z - INFO: Déplacement du fichier le plus récent: FOCICOM_DATABASE_2024-10-16_18_00_28.sql de /home/mgbi/elixir/focicom/master/focicom/backups vers /home/mgbi/Documents/all_backup/focicom_backups
+2024-10-16T15:29:00.196Z - INFO: Déplacement du fichier le plus récent: FRACOMEX_DATABASE_2024-10-16_18_10_19.sql de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups vers /home/mgbi/Documents/all_backup/fracomex_backups
+2024-10-16T15:29:00.197Z - INFO: Le fichier FRACOMEX_DATABASE_2024-10-16_18_10_19.sql a été déplacé avec succès de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups à /home/mgbi/Documents/all_backup/fracomex_backups.
+2024-10-16T15:29:00.197Z - INFO: Déplacement réussi de /home/mgbi/elixir/focicom/master/focicom/backups/FOCICOM_DATABASE_2024-10-16_18_00_28.sql vers /home/mgbi/Documents/all_backup/focicom_backups/FOCICOM_DATABASE_2024-10-16_18_00_28.sql
+2024-10-16T15:29:00.197Z - INFO: Le fichier FOCICOM_DATABASE_2024-10-16_18_00_28.sql a été déplacé avec succès de /home/mgbi/elixir/focicom/master/focicom/backups à /home/mgbi/Documents/all_backup/focicom_backups.
+2024-10-16T15:29:00.196Z - INFO: Déplacement réussi de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups/FRACOMEX_DATABASE_2024-10-16_18_10_19.sql vers /home/mgbi/Documents/all_backup/fracomex_backups/FRACOMEX_DATABASE_2024-10-16_18_10_19.sql
+2024-10-17T15:29:00.664Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups
+2024-10-17T15:29:00.664Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/fracomex_backups
+2024-10-17T15:29:00.664Z - INFO: Déplacement du fichier le plus récent: FRACOMEX_DATABASE_2024-10-17_18_10_21.sql de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups vers /home/mgbi/Documents/all_backup/fracomex_backups
+2024-10-17T15:29:00.664Z - INFO: Le répertoire source est vide: /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups. Passer au prochain répertoire.
+2024-10-17T15:29:00.665Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/focicom/master/focicom/backups
+2024-10-17T15:29:00.665Z - INFO: Déplacement du fichier le plus récent: FOCICOM_DATABASE_2024-10-17_18_00_30.sql de /home/mgbi/elixir/focicom/master/focicom/backups vers /home/mgbi/Documents/all_backup/focicom_backups
+2024-10-17T15:29:00.665Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/focicom_backups
+2024-10-17T15:29:00.665Z - INFO: Déplacement réussi de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups/FRACOMEX_DATABASE_2024-10-17_18_10_21.sql vers /home/mgbi/Documents/all_backup/fracomex_backups/FRACOMEX_DATABASE_2024-10-17_18_10_21.sql
+2024-10-17T15:29:00.665Z - INFO: Le fichier FRACOMEX_DATABASE_2024-10-17_18_10_21.sql a été déplacé avec succès de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups à /home/mgbi/Documents/all_backup/fracomex_backups.
+2024-10-17T15:29:00.665Z - INFO: Déplacement réussi de /home/mgbi/elixir/focicom/master/focicom/backups/FOCICOM_DATABASE_2024-10-17_18_00_30.sql vers /home/mgbi/Documents/all_backup/focicom_backups/FOCICOM_DATABASE_2024-10-17_18_00_30.sql
+2024-10-17T15:29:00.666Z - INFO: Le fichier FOCICOM_DATABASE_2024-10-17_18_00_30.sql a été déplacé avec succès de /home/mgbi/elixir/focicom/master/focicom/backups à /home/mgbi/Documents/all_backup/focicom_backups.
+2024-10-18T15:29:00.086Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups
+2024-10-18T15:29:00.086Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/fracomex_backups
+2024-10-18T15:29:00.087Z - INFO: Déplacement du fichier le plus récent: FRACOMEX_DATABASE_2024-10-18_18_10_22.sql de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups vers /home/mgbi/Documents/all_backup/fracomex_backups
+2024-10-18T15:29:00.087Z - INFO: Le répertoire source est vide: /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups. Passer au prochain répertoire.
+2024-10-18T15:29:00.087Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/focicom/master/focicom/backups
+2024-10-18T15:29:00.087Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/focicom_backups
+2024-10-18T15:29:00.087Z - INFO: Déplacement du fichier le plus récent: FOCICOM_DATABASE_2024-10-18_18_00_32.sql de /home/mgbi/elixir/focicom/master/focicom/backups vers /home/mgbi/Documents/all_backup/focicom_backups
+2024-10-18T15:29:00.087Z - INFO: Déplacement réussi de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups/FRACOMEX_DATABASE_2024-10-18_18_10_22.sql vers /home/mgbi/Documents/all_backup/fracomex_backups/FRACOMEX_DATABASE_2024-10-18_18_10_22.sql
+2024-10-18T15:29:00.087Z - INFO: Le fichier FRACOMEX_DATABASE_2024-10-18_18_10_22.sql a été déplacé avec succès de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups à /home/mgbi/Documents/all_backup/fracomex_backups.
+2024-10-18T15:29:00.087Z - INFO: Déplacement réussi de /home/mgbi/elixir/focicom/master/focicom/backups/FOCICOM_DATABASE_2024-10-18_18_00_32.sql vers /home/mgbi/Documents/all_backup/focicom_backups/FOCICOM_DATABASE_2024-10-18_18_00_32.sql
+2024-10-18T15:29:00.087Z - INFO: Le fichier FOCICOM_DATABASE_2024-10-18_18_00_32.sql a été déplacé avec succès de /home/mgbi/elixir/focicom/master/focicom/backups à /home/mgbi/Documents/all_backup/focicom_backups.
+2024-10-19T15:29:00.741Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups
+2024-10-19T15:29:00.742Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/fracomex_backups
+2024-10-19T15:29:00.742Z - INFO: Déplacement du fichier le plus récent: FRACOMEX_DATABASE_2024-10-19_18_10_24.sql de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups vers /home/mgbi/Documents/all_backup/fracomex_backups
+2024-10-19T15:29:00.742Z - INFO: Le répertoire source est vide: /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups. Passer au prochain répertoire.
+2024-10-19T15:29:00.742Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/focicom/master/focicom/backups
+2024-10-19T15:29:00.742Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/focicom_backups
+2024-10-19T15:29:00.742Z - INFO: Déplacement du fichier le plus récent: FOCICOM_DATABASE_2024-10-19_18_00_33.sql de /home/mgbi/elixir/focicom/master/focicom/backups vers /home/mgbi/Documents/all_backup/focicom_backups
+2024-10-19T15:29:00.743Z - INFO: Déplacement réussi de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups/FRACOMEX_DATABASE_2024-10-19_18_10_24.sql vers /home/mgbi/Documents/all_backup/fracomex_backups/FRACOMEX_DATABASE_2024-10-19_18_10_24.sql
+2024-10-19T15:29:00.743Z - INFO: Le fichier FRACOMEX_DATABASE_2024-10-19_18_10_24.sql a été déplacé avec succès de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups à /home/mgbi/Documents/all_backup/fracomex_backups.
+2024-10-19T15:29:00.743Z - INFO: Déplacement réussi de /home/mgbi/elixir/focicom/master/focicom/backups/FOCICOM_DATABASE_2024-10-19_18_00_33.sql vers /home/mgbi/Documents/all_backup/focicom_backups/FOCICOM_DATABASE_2024-10-19_18_00_33.sql
+2024-10-19T15:29:00.743Z - INFO: Le fichier FOCICOM_DATABASE_2024-10-19_18_00_33.sql a été déplacé avec succès de /home/mgbi/elixir/focicom/master/focicom/backups à /home/mgbi/Documents/all_backup/focicom_backups.
+2024-10-20T15:29:00.982Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups
+2024-10-20T15:29:00.982Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/fracomex_backups
+2024-10-20T15:29:00.982Z - INFO: Déplacement du fichier le plus récent: FRACOMEX_DATABASE_2024-10-20_18_10_25.sql de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups vers /home/mgbi/Documents/all_backup/fracomex_backups
+2024-10-20T15:29:00.982Z - INFO: Le répertoire source est vide: /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups. Passer au prochain répertoire.
+2024-10-20T15:29:00.982Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/focicom/master/focicom/backups
+2024-10-20T15:29:00.982Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/focicom_backups
+2024-10-20T15:29:00.983Z - INFO: Déplacement du fichier le plus récent: FOCICOM_DATABASE_2024-10-20_18_00_35.sql de /home/mgbi/elixir/focicom/master/focicom/backups vers /home/mgbi/Documents/all_backup/focicom_backups
+2024-10-20T15:29:00.983Z - INFO: Déplacement réussi de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups/FRACOMEX_DATABASE_2024-10-20_18_10_25.sql vers /home/mgbi/Documents/all_backup/fracomex_backups/FRACOMEX_DATABASE_2024-10-20_18_10_25.sql
+2024-10-20T15:29:00.983Z - INFO: Le fichier FRACOMEX_DATABASE_2024-10-20_18_10_25.sql a été déplacé avec succès de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups à /home/mgbi/Documents/all_backup/fracomex_backups.
+2024-10-20T15:29:00.983Z - INFO: Déplacement réussi de /home/mgbi/elixir/focicom/master/focicom/backups/FOCICOM_DATABASE_2024-10-20_18_00_35.sql vers /home/mgbi/Documents/all_backup/focicom_backups/FOCICOM_DATABASE_2024-10-20_18_00_35.sql
+2024-10-20T15:29:00.983Z - INFO: Le fichier FOCICOM_DATABASE_2024-10-20_18_00_35.sql a été déplacé avec succès de /home/mgbi/elixir/focicom/master/focicom/backups à /home/mgbi/Documents/all_backup/focicom_backups.
+2024-10-21T15:29:00.894Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups
+2024-10-21T15:29:00.894Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/fracomex_backups
+2024-10-21T15:29:00.894Z - INFO: Déplacement du fichier le plus récent: FRACOMEX_DATABASE_2024-10-21_18_10_27.sql de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups vers /home/mgbi/Documents/all_backup/fracomex_backups
+2024-10-21T15:29:00.894Z - INFO: Le répertoire source est vide: /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups. Passer au prochain répertoire.
+2024-10-21T15:29:00.894Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/focicom/master/focicom/backups
+2024-10-21T15:29:00.894Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/focicom_backups
+2024-10-21T15:29:00.895Z - INFO: Déplacement du fichier le plus récent: FOCICOM_DATABASE_2024-10-21_18_00_37.sql de /home/mgbi/elixir/focicom/master/focicom/backups vers /home/mgbi/Documents/all_backup/focicom_backups
+2024-10-21T15:29:00.895Z - INFO: Déplacement réussi de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups/FRACOMEX_DATABASE_2024-10-21_18_10_27.sql vers /home/mgbi/Documents/all_backup/fracomex_backups/FRACOMEX_DATABASE_2024-10-21_18_10_27.sql
+2024-10-21T15:29:00.895Z - INFO: Le fichier FRACOMEX_DATABASE_2024-10-21_18_10_27.sql a été déplacé avec succès de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups à /home/mgbi/Documents/all_backup/fracomex_backups.
+2024-10-21T15:29:00.895Z - INFO: Déplacement réussi de /home/mgbi/elixir/focicom/master/focicom/backups/FOCICOM_DATABASE_2024-10-21_18_00_37.sql vers /home/mgbi/Documents/all_backup/focicom_backups/FOCICOM_DATABASE_2024-10-21_18_00_37.sql
+2024-10-21T15:29:00.895Z - INFO: Le fichier FOCICOM_DATABASE_2024-10-21_18_00_37.sql a été déplacé avec succès de /home/mgbi/elixir/focicom/master/focicom/backups à /home/mgbi/Documents/all_backup/focicom_backups.
+2024-10-22T15:29:00.936Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups
+2024-10-22T15:29:00.936Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/fracomex_backups
+2024-10-22T15:29:00.936Z - INFO: Déplacement du fichier le plus récent: FRACOMEX_DATABASE_2024-10-22_18_10_29.sql de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups vers /home/mgbi/Documents/all_backup/fracomex_backups
+2024-10-22T15:29:00.936Z - INFO: Le répertoire source est vide: /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups. Passer au prochain répertoire.
+2024-10-22T15:29:00.936Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/focicom_backups
+2024-10-22T15:29:00.936Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/focicom/master/focicom/backups
+2024-10-22T15:29:00.937Z - INFO: Déplacement du fichier le plus récent: FOCICOM_DATABASE_2024-10-22_18_00_38.sql de /home/mgbi/elixir/focicom/master/focicom/backups vers /home/mgbi/Documents/all_backup/focicom_backups
+2024-10-22T15:29:00.937Z - INFO: Déplacement réussi de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups/FRACOMEX_DATABASE_2024-10-22_18_10_29.sql vers /home/mgbi/Documents/all_backup/fracomex_backups/FRACOMEX_DATABASE_2024-10-22_18_10_29.sql
+2024-10-22T15:29:00.937Z - INFO: Le fichier FRACOMEX_DATABASE_2024-10-22_18_10_29.sql a été déplacé avec succès de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups à /home/mgbi/Documents/all_backup/fracomex_backups.
+2024-10-22T15:29:00.937Z - INFO: Déplacement réussi de /home/mgbi/elixir/focicom/master/focicom/backups/FOCICOM_DATABASE_2024-10-22_18_00_38.sql vers /home/mgbi/Documents/all_backup/focicom_backups/FOCICOM_DATABASE_2024-10-22_18_00_38.sql
+2024-10-22T15:29:00.937Z - INFO: Le fichier FOCICOM_DATABASE_2024-10-22_18_00_38.sql a été déplacé avec succès de /home/mgbi/elixir/focicom/master/focicom/backups à /home/mgbi/Documents/all_backup/focicom_backups.
+2024-10-23T15:29:00.850Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups
+2024-10-23T15:29:00.851Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/fracomex_backups
+2024-10-23T15:29:00.851Z - INFO: Déplacement du fichier le plus récent: FRACOMEX_DATABASE_2024-10-23_18_10_30.sql de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups vers /home/mgbi/Documents/all_backup/fracomex_backups
+2024-10-23T15:29:00.851Z - INFO: Le répertoire source est vide: /home/mgbi/elixir/bbmay/prod/bbmay_prod/backups. Passer au prochain répertoire.
+2024-10-23T15:29:00.851Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/elixir/focicom/master/focicom/backups
+2024-10-23T15:29:00.851Z - INFO: Déplacement du fichier le plus récent: FOCICOM_DATABASE_2024-10-23_18_00_40.sql de /home/mgbi/elixir/focicom/master/focicom/backups vers /home/mgbi/Documents/all_backup/focicom_backups
+2024-10-23T15:29:00.851Z - INFO: Permissions d'écriture vérifiées pour le répertoire: /home/mgbi/Documents/all_backup/focicom_backups
+2024-10-23T15:29:00.852Z - INFO: Déplacement réussi de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups/FRACOMEX_DATABASE_2024-10-23_18_10_30.sql vers /home/mgbi/Documents/all_backup/fracomex_backups/FRACOMEX_DATABASE_2024-10-23_18_10_30.sql
+2024-10-23T15:29:00.852Z - INFO: Le fichier FRACOMEX_DATABASE_2024-10-23_18_10_30.sql a été déplacé avec succès de /home/mgbi/elixir/fracomex/fracomex_2024/fracomex_2.0_2024/backups à /home/mgbi/Documents/all_backup/fracomex_backups.
+2024-10-23T15:29:00.852Z - INFO: Déplacement réussi de /home/mgbi/elixir/focicom/master/focicom/backups/FOCICOM_DATABASE_2024-10-23_18_00_40.sql vers /home/mgbi/Documents/all_backup/focicom_backups/FOCICOM_DATABASE_2024-10-23_18_00_40.sql
+2024-10-23T15:29:00.852Z - INFO: Le fichier FOCICOM_DATABASE_2024-10-23_18_00_40.sql a été déplacé avec succès de /home/mgbi/elixir/focicom/master/focicom/backups à /home/mgbi/Documents/all_backup/focicom_backups.
