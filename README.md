@@ -9,7 +9,7 @@ Ce projet est un programme Node.js conçu pour automatiser la gestion des backup
 - Fichier de log pour suivre l'exécution du programme et les éventuelles erreurs.
 
 ## Prérequis
-- Node.js (version X.X ou supérieure)
+- Node.js 18.17.6
 - Git (pour le contrôle de version)
 - Un serveur où sont déployés les projets dont les backups doivent être récupérés
 
@@ -17,7 +17,7 @@ Ce projet est un programme Node.js conçu pour automatiser la gestion des backup
 
 1. Clonez ce dépôt Git sur votre machine locale :
    ```bash
-   git clone https://github.com/votre-utilisateur/votre-repository.git
+   git https://github.com/gitPhidia/server-backup-automation.git
 
 
 2. Creer une le fichier de configuration dans une dossier 'config/path.js' a partir  du template 'path.exemple'
